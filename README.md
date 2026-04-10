@@ -5,7 +5,7 @@ A lightweight, high-performance, and offline-first CLI tool designed specificall
 <BR>
 
 <p>
-  <img src="https://raw.githubusercontent.com/JonnyBanana/Gemstone_Database_for_Lapidaries/refs/heads/main/img/main_menu.png">
+  <img src="https://raw.githubusercontent.com/JonnyBanana/Gemstone_Database_for_Lapidaries/refs/heads/main/img/main_menu.png"width="700">
 </p>
 
 <BR>
@@ -42,7 +42,7 @@ hardness, refractive index, and cutting suggestions.
 <BR>
 
 <p>
-  <img src="https://raw.githubusercontent.com/JonnyBanana/Gemstone_Database_for_Lapidaries/refs/heads/main/img/gemstone-serach.png" width="750">
+  <img src="https://raw.githubusercontent.com/JonnyBanana/Gemstone_Database_for_Lapidaries/refs/heads/main/img/gemstone-serach.png" width="700">
 </p>
 
 <BR>
