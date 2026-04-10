@@ -1,0 +1,30 @@
+Name: Topaz
+Formula: Al2SiO4(F,OH)2
+Crystal System: Orthorhombic
+
+Color: Various
+Hardness: 8
+Specific Gravity: 3.5
+
+Refractive Index: 1.61-1.63
+Birefringence: 0.010
+Optical: Anisotropic
+Refraction: Birefringent
+
+Pleochroism: Weak to moderate
+
+Cleavage: Perfect
+Fracture: Conchoidal
+
+Primary Sources: Brazil, Pakistan
+
+Treatments: Heat, irradiation
+
+Cuts: Faceted
+
+Faceted Cuts:
+Oval
+Emerald cut
+Pear
+
+Phenomena: None

@@ -1,0 +1,28 @@
+Name: Wavellite
+Formula: Al3(PO4)2(OH,F)3·5H2O
+Crystal System: Orthorhombic
+
+Color: Green, yellow
+Hardness: 3.5-4
+Specific Gravity: 2.3-2.4
+
+Refractive Index: 1.52-1.54
+Birefringence: 0.020
+Optical: Anisotropic
+Refraction: Birefringent
+
+Pleochroism: Weak
+
+Cleavage: Perfect
+Fracture: Uneven
+
+Primary Sources: USA, UK
+
+Treatments: None
+
+Cuts: Cabochon
+
+Faceted Cuts:
+None
+
+Phenomena: Radial structure

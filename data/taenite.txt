@@ -1,0 +1,28 @@
+Name: Taenite
+Formula: Fe-Ni alloy
+Crystal System: Isometric
+
+Color: Metallic silver
+Hardness: 4-5
+Specific Gravity: 7.8
+
+Refractive Index: Opaque
+Birefringence: None
+Optical: Opaque
+Refraction: None
+
+Pleochroism: None
+
+Cleavage: None
+Fracture: Irregular
+
+Primary Sources: Meteorites
+
+Treatments: None
+
+Cuts: Specimen
+
+Faceted Cuts:
+None
+
+Phenomena: Metallic luster

@@ -1,0 +1,28 @@
+Name: Zincite
+Formula: ZnO
+Crystal System: Hexagonal
+
+Color: Red, orange
+Hardness: 4-4.5
+Specific Gravity: 5.5-5.7
+
+Refractive Index: 2.0+
+Birefringence: Moderate
+Optical: Anisotropic
+Refraction: Birefringent
+
+Pleochroism: Weak
+
+Cleavage: Perfect
+Fracture: Uneven
+
+Primary Sources: Poland, USA
+
+Treatments: None
+
+Cuts: Rare / Collector
+
+Faceted Cuts:
+None
+
+Phenomena: None

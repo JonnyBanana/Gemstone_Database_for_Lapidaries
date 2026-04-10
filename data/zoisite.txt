@@ -1,0 +1,29 @@
+Name: Zoisite
+Formula: Ca2Al3(SiO4)(Si2O7)O(OH)
+Crystal System: Orthorhombic
+
+Color: Green, blue
+Hardness: 6-7
+Specific Gravity: 3.2-3.4
+
+Refractive Index: 1.69-1.70
+Birefringence: 0.008
+Optical: Anisotropic
+Refraction: Birefringent
+
+Pleochroism: Moderate
+
+Cleavage: Good
+Fracture: Uneven
+
+Primary Sources: Tanzania, Austria
+
+Treatments: Heat
+
+Cuts: Faceted / Cabochon
+
+Faceted Cuts:
+Oval
+Cushion
+
+Phenomena: None

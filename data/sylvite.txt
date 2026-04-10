@@ -1,0 +1,28 @@
+Name: Sylvite
+Formula: KCl
+Crystal System: Cubic
+
+Color: Colorless, red
+Hardness: 2
+Specific Gravity: 1.99
+
+Refractive Index: 1.49
+Birefringence: None
+Optical: Isotropic
+Refraction: Single (Monorefringent)
+
+Pleochroism: None
+
+Cleavage: Perfect
+Fracture: Conchoidal
+
+Primary Sources: Germany, USA
+
+Treatments: None
+
+Cuts: Not suitable
+
+Faceted Cuts:
+None
+
+Phenomena: None

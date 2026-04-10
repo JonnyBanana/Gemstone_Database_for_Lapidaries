@@ -1,0 +1,28 @@
+Name: Vivianite
+Formula: Fe3(PO4)2·8H2O
+Crystal System: Monoclinic
+
+Color: Blue, green
+Hardness: 1.5-2
+Specific Gravity: 2.6-2.7
+
+Refractive Index: 1.58-1.64
+Birefringence: 0.030
+Optical: Anisotropic
+Refraction: Birefringent
+
+Pleochroism: Strong
+
+Cleavage: Perfect
+Fracture: Uneven
+
+Primary Sources: Bolivia, Germany
+
+Treatments: None
+
+Cuts: Rare / Collector
+
+Faceted Cuts:
+None
+
+Phenomena: Color change (oxidation darkening)

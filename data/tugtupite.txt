@@ -1,0 +1,28 @@
+Name: Tugtupite
+Formula: Na4AlBeSi4O12Cl
+Crystal System: Tetragonal
+
+Color: Pink, red
+Hardness: 4
+Specific Gravity: 2.3-2.4
+
+Refractive Index: 1.49-1.50
+Birefringence: Low
+Optical: Anisotropic
+Refraction: Birefringent
+
+Pleochroism: Weak
+
+Cleavage: Good
+Fracture: Uneven
+
+Primary Sources: Greenland
+
+Treatments: None
+
+Cuts: Cabochon
+
+Faceted Cuts:
+None
+
+Phenomena: Fluorescence

@@ -1,0 +1,28 @@
+Name: Thulite
+Formula: Ca2Al3(SiO4)(Si2O7)O(OH)
+Crystal System: Orthorhombic
+
+Color: Pink
+Hardness: 6-6.5
+Specific Gravity: 3.2-3.4
+
+Refractive Index: 1.69-1.70
+Birefringence: 0.008
+Optical: Anisotropic
+Refraction: Birefringent
+
+Pleochroism: Weak
+
+Cleavage: Good
+Fracture: Uneven
+
+Primary Sources: Norway, USA
+
+Treatments: None
+
+Cuts: Cabochon
+
+Faceted Cuts:
+Rare
+
+Phenomena: None

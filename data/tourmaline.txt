@@ -1,0 +1,30 @@
+Name: Tourmaline
+Formula: Complex borosilicate
+Crystal System: Trigonal
+
+Color: Various
+Hardness: 7-7.5
+Specific Gravity: 3.0-3.3
+
+Refractive Index: 1.61-1.64
+Birefringence: 0.018
+Optical: Anisotropic
+Refraction: Birefringent
+
+Pleochroism: Strong
+
+Cleavage: None
+Fracture: Conchoidal
+
+Primary Sources: Brazil, Afghanistan
+
+Treatments: Heat common
+
+Cuts: Faceted
+
+Faceted Cuts:
+Oval
+Cushion
+Emerald cut
+
+Phenomena: Color zoning

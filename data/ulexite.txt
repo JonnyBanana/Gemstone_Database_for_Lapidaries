@@ -1,0 +1,28 @@
+Name: Ulexite
+Formula: NaCaB5O6(OH)6·5H2O
+Crystal System: Triclinic
+
+Color: White
+Hardness: 2.5
+Specific Gravity: 1.9
+
+Refractive Index: 1.49-1.51
+Birefringence: 0.030
+Optical: Anisotropic
+Refraction: Birefringent
+
+Pleochroism: None
+
+Cleavage: Perfect
+Fracture: Uneven
+
+Primary Sources: USA, Chile
+
+Treatments: None
+
+Cuts: Cabochon
+
+Faceted Cuts:
+None
+
+Phenomena: Fiber optic effect

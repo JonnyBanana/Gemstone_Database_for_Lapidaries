@@ -1,0 +1,29 @@
+Name: Sunstone
+Formula: (Na,Ca)(Si,Al)4O8
+Crystal System: Triclinic
+
+Color: Orange, red
+Hardness: 6-6.5
+Specific Gravity: 2.6-2.7
+
+Refractive Index: 1.54-1.56
+Birefringence: 0.010
+Optical: Anisotropic
+Refraction: Birefringent
+
+Pleochroism: Weak
+
+Cleavage: Perfect
+Fracture: Uneven
+
+Primary Sources: USA, India
+
+Treatments: None
+
+Cuts: Faceted / Cabochon
+
+Faceted Cuts:
+Oval
+Cushion
+
+Phenomena: Aventurescence

@@ -1,0 +1,28 @@
+Name: Thomsonite
+Formula: NaCa2Al5Si5O20·6H2O
+Crystal System: Orthorhombic
+
+Color: White, pink
+Hardness: 5-5.5
+Specific Gravity: 2.3-2.4
+
+Refractive Index: 1.52-1.54
+Birefringence: 0.010
+Optical: Anisotropic
+Refraction: Birefringent
+
+Pleochroism: None
+
+Cleavage: Good
+Fracture: Uneven
+
+Primary Sources: India, USA
+
+Treatments: None
+
+Cuts: Cabochon
+
+Faceted Cuts:
+None
+
+Phenomena: None

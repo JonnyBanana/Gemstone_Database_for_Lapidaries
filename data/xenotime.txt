@@ -1,0 +1,28 @@
+Name: Xenotime
+Formula: YPO4
+Crystal System: Tetragonal
+
+Color: Brown, yellow
+Hardness: 4-5
+Specific Gravity: 4.4-5.1
+
+Refractive Index: 1.72-1.82
+Birefringence: 0.030
+Optical: Anisotropic
+Refraction: Birefringent
+
+Pleochroism: Weak
+
+Cleavage: Good
+Fracture: Uneven
+
+Primary Sources: Brazil, Norway
+
+Treatments: None
+
+Cuts: Rare / Collector
+
+Faceted Cuts:
+None
+
+Phenomena: Radioactive (weak)

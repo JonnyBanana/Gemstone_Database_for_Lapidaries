@@ -1,0 +1,30 @@
+Name: Zircon
+Formula: ZrSiO4
+Crystal System: Tetragonal
+
+Color: Various
+Hardness: 6-7.5
+Specific Gravity: 4.6-4.7
+
+Refractive Index: 1.92-1.98
+Birefringence: 0.059
+Optical: Anisotropic
+Refraction: Birefringent
+
+Pleochroism: Weak
+
+Cleavage: Poor
+Fracture: Conchoidal
+
+Primary Sources: Cambodia, Sri Lanka
+
+Treatments: Heat common
+
+Cuts: Faceted
+
+Faceted Cuts:
+Round brilliant
+Oval
+Cushion
+
+Phenomena: High dispersion

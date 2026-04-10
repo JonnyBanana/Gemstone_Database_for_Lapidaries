@@ -1,0 +1,28 @@
+Name: Stibnite
+Formula: Sb2S3
+Crystal System: Orthorhombic
+
+Color: Silver-gray
+Hardness: 2
+Specific Gravity: 4.6
+
+Refractive Index: Opaque
+Birefringence: None
+Optical: Opaque
+Refraction: None
+
+Pleochroism: None
+
+Cleavage: Perfect
+Fracture: Uneven
+
+Primary Sources: China, Romania
+
+Treatments: None
+
+Cuts: Collector
+
+Faceted Cuts:
+None
+
+Phenomena: None

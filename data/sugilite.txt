@@ -1,0 +1,28 @@
+Name: Sugilite
+Formula: KNa2(Fe,Mn,Al)2Li3Si12O30
+Crystal System: Hexagonal
+
+Color: Purple
+Hardness: 5.5-6.5
+Specific Gravity: 2.7-2.8
+
+Refractive Index: 1.61-1.62
+Birefringence: 0.005
+Optical: Anisotropic
+Refraction: Birefringent
+
+Pleochroism: Weak
+
+Cleavage: Poor
+Fracture: Uneven
+
+Primary Sources: South Africa, Japan
+
+Treatments: None
+
+Cuts: Cabochon
+
+Faceted Cuts:
+Rare
+
+Phenomena: None

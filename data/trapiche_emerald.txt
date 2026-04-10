@@ -1,0 +1,28 @@
+Name: Trapiche Emerald
+Formula: Be3Al2Si6O18
+Crystal System: Hexagonal
+
+Color: Green with pattern
+Hardness: 7.5-8
+Specific Gravity: 2.7
+
+Refractive Index: 1.57-1.59
+Birefringence: 0.006
+Optical: Anisotropic
+Refraction: Birefringent
+
+Pleochroism: Weak
+
+Cleavage: Imperfect
+Fracture: Uneven
+
+Primary Sources: Colombia
+
+Treatments: Oiling
+
+Cuts: Cabochon / Slice
+
+Faceted Cuts:
+None
+
+Phenomena: Trapiche structure

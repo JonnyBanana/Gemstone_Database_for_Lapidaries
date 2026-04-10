@@ -1,0 +1,28 @@
+Name: Specularite (Hematite)
+Formula: Fe2O3
+Crystal System: Trigonal
+
+Color: Metallic gray
+Hardness: 5.5-6.5
+Specific Gravity: 5.2
+
+Refractive Index: Opaque
+Birefringence: None
+Optical: Opaque
+Refraction: None
+
+Pleochroism: None
+
+Cleavage: None
+Fracture: Uneven
+
+Primary Sources: Brazil, USA
+
+Treatments: None
+
+Cuts: Cabochon
+
+Faceted Cuts:
+None
+
+Phenomena: Metallic luster

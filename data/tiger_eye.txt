@@ -1,0 +1,28 @@
+Name: Tiger Eye
+Formula: SiO2 (quartz aggregate)
+Crystal System: Trigonal
+
+Color: Brown-gold
+Hardness: 7
+Specific Gravity: 2.6
+
+Refractive Index: 1.53-1.54
+Birefringence: None (aggregate)
+Optical: Aggregate
+Refraction: Birefringent
+
+Pleochroism: None
+
+Cleavage: None
+Fracture: Conchoidal
+
+Primary Sources: South Africa, Australia
+
+Treatments: Heat/dye possible
+
+Cuts: Cabochon
+
+Faceted Cuts:
+None
+
+Phenomena: Chatoyancy

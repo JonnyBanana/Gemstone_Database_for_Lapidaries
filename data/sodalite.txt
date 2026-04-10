@@ -1,0 +1,28 @@
+Name: Sodalite
+Formula: Na8Al6Si6O24Cl2
+Crystal System: Cubic
+
+Color: Blue
+Hardness: 5.5-6
+Specific Gravity: 2.2-2.3
+
+Refractive Index: 1.48
+Birefringence: None
+Optical: Isotropic
+Refraction: Single (Monorefringent)
+
+Pleochroism: None
+
+Cleavage: Poor
+Fracture: Uneven
+
+Primary Sources: Canada, Namibia
+
+Treatments: None
+
+Cuts: Cabochon
+
+Faceted Cuts:
+None
+
+Phenomena: Fluorescence

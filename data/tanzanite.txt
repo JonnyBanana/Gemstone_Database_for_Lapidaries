@@ -1,0 +1,30 @@
+Name: Tanzanite
+Formula: Ca2Al3(SiO4)(Si2O7)O(OH)
+Crystal System: Orthorhombic
+
+Color: Blue-violet
+Hardness: 6-7
+Specific Gravity: 3.3
+
+Refractive Index: 1.69-1.70
+Birefringence: 0.008
+Optical: Anisotropic
+Refraction: Birefringent
+
+Pleochroism: Strong
+
+Cleavage: Perfect
+Fracture: Uneven
+
+Primary Sources: Tanzania
+
+Treatments: Heat (almost universal)
+
+Cuts: Faceted
+
+Faceted Cuts:
+Oval
+Cushion
+Emerald cut
+
+Phenomena: None

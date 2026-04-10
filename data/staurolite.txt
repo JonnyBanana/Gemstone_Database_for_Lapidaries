@@ -1,0 +1,28 @@
+Name: Staurolite
+Formula: (Fe,Mg)2Al9Si4O23(OH)
+Crystal System: Monoclinic
+
+Color: Brown
+Hardness: 7-7.5
+Specific Gravity: 3.7
+
+Refractive Index: 1.73-1.75
+Birefringence: 0.015
+Optical: Anisotropic
+Refraction: Birefringent
+
+Pleochroism: Weak
+
+Cleavage: Poor
+Fracture: Uneven
+
+Primary Sources: USA, Russia
+
+Treatments: None
+
+Cuts: Collector
+
+Faceted Cuts:
+None
+
+Phenomena: Cruciform twinning

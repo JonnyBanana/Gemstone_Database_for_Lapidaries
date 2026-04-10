@@ -1,0 +1,30 @@
+Name: Smoky Quartz
+Formula: SiO2
+Crystal System: Trigonal
+
+Color: Brown to black
+Hardness: 7
+Specific Gravity: 2.65
+
+Refractive Index: 1.54-1.55
+Birefringence: 0.009
+Optical: Anisotropic
+Refraction: Birefringent
+
+Pleochroism: Weak
+
+Cleavage: None
+Fracture: Conchoidal
+
+Primary Sources: Brazil, Switzerland
+
+Treatments: Irradiation (natural or enhanced)
+
+Cuts: Faceted
+
+Faceted Cuts:
+Round brilliant
+Oval
+Emerald cut
+
+Phenomena: None

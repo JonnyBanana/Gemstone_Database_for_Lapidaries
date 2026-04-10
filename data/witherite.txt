@@ -1,0 +1,28 @@
+Name: Wulfenite
+Formula: PbMoO4
+Crystal System: Tetragonal
+
+Color: Orange, yellow
+Hardness: 2.5-3
+Specific Gravity: 6.5-7.0
+
+Refractive Index: 2.30-2.40
+Birefringence: Low
+Optical: Anisotropic
+Refraction: Birefringent
+
+Pleochroism: Weak
+
+Cleavage: Poor
+Fracture: Uneven
+
+Primary Sources: Mexico, USA
+
+Treatments: None
+
+Cuts: Rare / Collector
+
+Faceted Cuts:
+None
+
+Phenomena: None

@@ -1,0 +1,28 @@
+Name: Turquoise
+Formula: CuAl6(PO4)4(OH)8·4H2O
+Crystal System: Triclinic
+
+Color: Blue-green
+Hardness: 5-6
+Specific Gravity: 2.6-2.9
+
+Refractive Index: 1.61-1.65
+Birefringence: Low
+Optical: Anisotropic
+Refraction: Birefringent
+
+Pleochroism: None
+
+Cleavage: Poor
+Fracture: Uneven
+
+Primary Sources: Iran, USA
+
+Treatments: Stabilization common
+
+Cuts: Cabochon
+
+Faceted Cuts:
+None
+
+Phenomena: None

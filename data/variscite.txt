@@ -1,0 +1,28 @@
+Name: Variscite
+Formula: AlPO4·2H2O
+Crystal System: Orthorhombic
+
+Color: Green
+Hardness: 4-5
+Specific Gravity: 2.4-2.6
+
+Refractive Index: 1.55-1.59
+Birefringence: 0.020
+Optical: Anisotropic
+Refraction: Birefringent
+
+Pleochroism: None
+
+Cleavage: Poor
+Fracture: Uneven
+
+Primary Sources: USA, Australia
+
+Treatments: Stabilization possible
+
+Cuts: Cabochon
+
+Faceted Cuts:
+None
+
+Phenomena: None

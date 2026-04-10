@@ -1,0 +1,28 @@
+Name: Uraninite
+Formula: UO2
+Crystal System: Cubic
+
+Color: Black
+Hardness: 5-6
+Specific Gravity: 10+
+
+Refractive Index: Opaque
+Birefringence: None
+Optical: Opaque
+Refraction: None
+
+Pleochroism: None
+
+Cleavage: Poor
+Fracture: Uneven
+
+Primary Sources: Canada, Congo
+
+Treatments: None
+
+Cuts: Not suitable
+
+Faceted Cuts:
+None
+
+Phenomena: Radioactive

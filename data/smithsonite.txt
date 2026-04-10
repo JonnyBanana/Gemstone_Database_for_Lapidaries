@@ -1,0 +1,28 @@
+Name: Smithsonite
+Formula: ZnCO3
+Crystal System: Trigonal
+
+Color: Blue, green, pink
+Hardness: 4-4.5
+Specific Gravity: 4.3-4.5
+
+Refractive Index: 1.62-1.85
+Birefringence: 0.220
+Optical: Anisotropic
+Refraction: Birefringent
+
+Pleochroism: Weak
+
+Cleavage: Perfect
+Fracture: Uneven
+
+Primary Sources: Namibia, Mexico
+
+Treatments: None
+
+Cuts: Cabochon
+
+Faceted Cuts:
+Rare
+
+Phenomena: None

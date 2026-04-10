@@ -1,0 +1,28 @@
+Name: Strontianite
+Formula: SrCO3
+Crystal System: Orthorhombic
+
+Color: Colorless, white
+Hardness: 3.5-4
+Specific Gravity: 3.7-3.8
+
+Refractive Index: 1.52-1.67
+Birefringence: 0.150
+Optical: Anisotropic
+Refraction: Birefringent
+
+Pleochroism: Weak
+
+Cleavage: Good
+Fracture: Uneven
+
+Primary Sources: Germany, UK
+
+Treatments: None
+
+Cuts: Rare / Collector
+
+Faceted Cuts:
+None
+
+Phenomena: Fluorescence

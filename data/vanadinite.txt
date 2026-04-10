@@ -1,0 +1,28 @@
+Name: Vanadinite
+Formula: Pb5(VO4)3Cl
+Crystal System: Hexagonal
+
+Color: Red, orange
+Hardness: 3-4
+Specific Gravity: 6.6-7.2
+
+Refractive Index: 2.35-2.42
+Birefringence: Low
+Optical: Anisotropic
+Refraction: Birefringent
+
+Pleochroism: Weak
+
+Cleavage: Poor
+Fracture: Uneven
+
+Primary Sources: Morocco, USA
+
+Treatments: None
+
+Cuts: Rare / Collector
+
+Faceted Cuts:
+None
+
+Phenomena: None

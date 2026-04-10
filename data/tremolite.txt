@@ -1,0 +1,28 @@
+Name: Tremolite
+Formula: Ca2Mg5Si8O22(OH)2
+Crystal System: Monoclinic
+
+Color: White, green
+Hardness: 5-6
+Specific Gravity: 2.9-3.1
+
+Refractive Index: 1.60-1.63
+Birefringence: 0.020
+Optical: Anisotropic
+Refraction: Birefringent
+
+Pleochroism: Weak
+
+Cleavage: Good
+Fracture: Uneven
+
+Primary Sources: Italy, Canada
+
+Treatments: None
+
+Cuts: Cabochon
+
+Faceted Cuts:
+None
+
+Phenomena: None

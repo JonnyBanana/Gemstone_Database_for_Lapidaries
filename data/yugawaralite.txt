@@ -1,0 +1,28 @@
+Name: Yugawaralite
+Formula: CaAl2Si6O16·4H2O
+Crystal System: Monoclinic
+
+Color: Colorless
+Hardness: 4.5
+Specific Gravity: 2.2
+
+Refractive Index: 1.48-1.50
+Birefringence: 0.010
+Optical: Anisotropic
+Refraction: Birefringent
+
+Pleochroism: None
+
+Cleavage: Perfect
+Fracture: Uneven
+
+Primary Sources: Japan, Iceland
+
+Treatments: None
+
+Cuts: Rare / Collector
+
+Faceted Cuts:
+None
+
+Phenomena: None

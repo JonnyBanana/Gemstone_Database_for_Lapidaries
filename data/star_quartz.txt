@@ -1,0 +1,28 @@
+Name: Star Quartz
+Formula: SiO2
+Crystal System: Trigonal
+
+Color: Various
+Hardness: 7
+Specific Gravity: 2.65
+
+Refractive Index: 1.544-1.553
+Birefringence: 0.009
+Optical: Anisotropic
+Refraction: Birefringent
+
+Pleochroism: None
+
+Cleavage: None
+Fracture: Conchoidal
+
+Primary Sources: India, Sri Lanka
+
+Treatments: None
+
+Cuts: Cabochon
+
+Faceted Cuts:
+None
+
+Phenomena: Asterism

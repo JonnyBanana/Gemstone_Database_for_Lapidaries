@@ -1,0 +1,29 @@
+Name: Sphene (Titanite)
+Formula: CaTiSiO5
+Crystal System: Monoclinic
+
+Color: Green, yellow
+Hardness: 5-5.5
+Specific Gravity: 3.5-3.6
+
+Refractive Index: 1.84-2.10
+Birefringence: 0.100+
+Optical: Anisotropic
+Refraction: Birefringent
+
+Pleochroism: Strong
+
+Cleavage: Good
+Fracture: Uneven
+
+Primary Sources: Madagascar, Pakistan
+
+Treatments: None
+
+Cuts: Faceted
+
+Faceted Cuts:
+Oval
+Cushion
+
+Phenomena: High dispersion

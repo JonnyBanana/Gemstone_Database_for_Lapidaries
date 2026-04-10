@@ -1,0 +1,30 @@
+Name: Spessartine
+Formula: Mn3Al2(SiO4)3
+Crystal System: Cubic
+
+Color: Orange
+Hardness: 7-7.5
+Specific Gravity: 4.1-4.3
+
+Refractive Index: 1.79-1.81
+Birefringence: None
+Optical: Isotropic
+Refraction: Single (Monorefringent)
+
+Pleochroism: None
+
+Cleavage: None
+Fracture: Conchoidal
+
+Primary Sources: Namibia, Nigeria
+
+Treatments: None
+
+Cuts: Faceted
+
+Faceted Cuts:
+Round brilliant
+Oval
+Cushion
+
+Phenomena: None

@@ -1,0 +1,29 @@
+Name: Sphalerite
+Formula: ZnS
+Crystal System: Cubic
+
+Color: Yellow, brown
+Hardness: 3.5-4
+Specific Gravity: 3.9-4.1
+
+Refractive Index: 2.37-2.50
+Birefringence: None
+Optical: Isotropic
+Refraction: Single (Monorefringent)
+
+Pleochroism: None
+
+Cleavage: Perfect
+Fracture: Conchoidal
+
+Primary Sources: Spain, Mexico
+
+Treatments: None
+
+Cuts: Faceted / Collector
+
+Faceted Cuts:
+Round
+Oval
+
+Phenomena: High dispersion (fire)

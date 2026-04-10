@@ -1,0 +1,28 @@
+Name: Willemite
+Formula: Zn2SiO4
+Crystal System: Trigonal
+
+Color: Green
+Hardness: 5.5
+Specific Gravity: 3.9-4.2
+
+Refractive Index: 1.69-1.72
+Birefringence: 0.030
+Optical: Anisotropic
+Refraction: Birefringent
+
+Pleochroism: Weak
+
+Cleavage: Poor
+Fracture: Uneven
+
+Primary Sources: USA, Namibia
+
+Treatments: None
+
+Cuts: Rare / Collector
+
+Faceted Cuts:
+None
+
+Phenomena: Fluorescence

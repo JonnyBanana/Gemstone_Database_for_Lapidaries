@@ -1,0 +1,29 @@
+Name: Taaffeite
+Formula: BeMgAl4O8
+Crystal System: Hexagonal
+
+Color: Violet
+Hardness: 8-8.5
+Specific Gravity: 3.6
+
+Refractive Index: 1.72-1.73
+Birefringence: 0.005
+Optical: Anisotropic
+Refraction: Birefringent
+
+Pleochroism: Weak
+
+Cleavage: Poor
+Fracture: Conchoidal
+
+Primary Sources: Sri Lanka, Tanzania
+
+Treatments: None
+
+Cuts: Faceted
+
+Faceted Cuts:
+Oval
+Cushion
+
+Phenomena: None

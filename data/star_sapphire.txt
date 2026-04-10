@@ -1,0 +1,28 @@
+Name: Star Sapphire
+Formula: Al2O3
+Crystal System: Trigonal
+
+Color: Blue
+Hardness: 9
+Specific Gravity: 4.0
+
+Refractive Index: 1.76-1.77
+Birefringence: 0.008
+Optical: Anisotropic
+Refraction: Birefringent
+
+Pleochroism: Moderate
+
+Cleavage: None
+Fracture: Conchoidal
+
+Primary Sources: Sri Lanka, Madagascar
+
+Treatments: Heat
+
+Cuts: Cabochon
+
+Faceted Cuts:
+None
+
+Phenomena: Asterism

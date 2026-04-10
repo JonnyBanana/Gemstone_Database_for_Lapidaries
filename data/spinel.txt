@@ -1,0 +1,30 @@
+Name: Spinel
+Formula: MgAl2O4
+Crystal System: Cubic
+
+Color: Various
+Hardness: 8
+Specific Gravity: 3.6
+
+Refractive Index: 1.71-1.73
+Birefringence: None
+Optical: Isotropic
+Refraction: Single (Monorefringent)
+
+Pleochroism: None
+
+Cleavage: None
+Fracture: Conchoidal
+
+Primary Sources: Myanmar, Sri Lanka
+
+Treatments: Heat possible
+
+Cuts: Faceted
+
+Faceted Cuts:
+Round brilliant
+Oval
+Cushion
+
+Phenomena: None
