@@ -5,7 +5,7 @@ A lightweight, high-performance, and offline-first CLI tool designed specificall
 <BR>
 
 <p>
-  <img src="https://raw.githubusercontent.com/JonnyBanana/Gemstone_Database_for_Lapidaries/refs/heads/main/img/main_menu.png" width="600">
+  <img src="https://raw.githubusercontent.com/JonnyBanana/Gemstone_Database_for_Lapidaries/refs/heads/main/img/main_menu.png" width="650">
 </p>
 
 <BR>
@@ -42,7 +42,7 @@ hardness, refractive index, and cutting suggestions.
 <BR>
 
 <p>
-  <img src="https://raw.githubusercontent.com/JonnyBanana/Gemstone_Database_for_Lapidaries/refs/heads/main/img/gemstone-search.png" width="600">
+  <img src="https://raw.githubusercontent.com/JonnyBanana/Gemstone_Database_for_Lapidaries/refs/heads/main/img/gemstone-search.png" width="650">
 </p>
 
 <BR>
@@ -71,7 +71,7 @@ essential for identifying and working with the stone:
 <BR>
 
 <p>
-  <img src="https://raw.githubusercontent.com/JonnyBanana/Gemstone_Database_for_Lapidaries/refs/heads/main/img/mineral_example.png" width="600">
+  <img src="https://raw.githubusercontent.com/JonnyBanana/Gemstone_Database_for_Lapidaries/refs/heads/main/img/mineral_example.png" width="650">
 </p>
 
 <BR>
