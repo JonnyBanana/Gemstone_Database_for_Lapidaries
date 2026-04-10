@@ -2,13 +2,13 @@
 
 A lightweight, high-performance, and offline-first CLI tool designed specifically for lapidaries, gem cutters, and mineral enthusiasts worldwide.
 
-<BR>
+</BR>
 
 <p>
   <img src="https://raw.githubusercontent.com/JonnyBanana/Gemstone_Database_for_Lapidaries/refs/heads/main/img/main_menu.png" width="700">
 </p>
 
-<BR>
+</BR>
 
 <h2>💎 Project Philosophy</h2>
 
@@ -25,6 +25,8 @@ no complex environments. If you have a PC, it runs.
 Internet is only required if you choose to use the optional Web Resources.
 
 -Ultra-Lightweight: It takes up virtually no disk space and can run on even the oldest machines.
+
+</BR>
 
 <h2>🚀 Features</h2>
 
@@ -68,23 +70,6 @@ essential for identifying and working with the stone:
 
 <BR>
 
-<h2>🗺️ Roadmap</h2>
-
-We are committed to growing this tool for the global community. Our future goals include:
-
-[ ] Expansion to 500+ mineral files.
-
-[ ] Integrated Hydrostatic Scale Calculator for Specific Gravity.
-
-[ ] Carat-to-Gram and Weight estimation converters.
-
-[ ] ASCII visualization of Crystal Symmetry systems.
-
-<h2>📜 Changelog</h2>
-
-v1.0 (Current): Launch with a database list of 250 minerals. Includes Smart Search (Auto-Open logic),</BR> 
-expanded Web Dashboard (Instrumentation & Software), and improved input normalization for spaces and hyphens.
-
 <h2>📥 Downloads</h2>
 
 You can download the version 1.0 here:
@@ -104,6 +89,29 @@ https://
  2. Important: Ensure the data folder is in the same directory as the .bat file.
 
  3. Run GEMSTONE_DATABASE.bat.
+
+</BR>
+
+<h2>🗺️ Roadmap</h2>
+
+We are committed to growing this tool for the global community. Our future goals include:
+
+[ ] Expansion to 500+ mineral files.
+
+[ ] Integrated Hydrostatic Scale Calculator for Specific Gravity.
+
+[ ] Carat-to-Gram and Weight estimation converters.
+
+[ ] ASCII visualization of Crystal Symmetry systems.
+
+</BR>
+
+<h2>📜 Changelog</h2>
+
+v1.0 (Current): Launch with a database list of 250 minerals. Includes Smart Search (Auto-Open logic),</BR> 
+expanded Web Dashboard (Instrumentation & Software), and improved input normalization for spaces and hyphens.
+
+</BR>
 
 <h2>🤝 How to Contribute</h2>
 
