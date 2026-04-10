@@ -47,14 +47,6 @@ hardness, refractive index, and cutting suggestions.
 
 <BR>
 
-<h2>📥 Downloads</h2>
-
-You can download the version 1.0 here:
-
-https://
-
- Note: The .exe version is a standalone file with the database already embedded.
-
 <h2>📂 Mineral Data Sheets</h2>
 
 Each mineral in the database provides detailed technical specifications</BR> 
@@ -92,6 +84,14 @@ We are committed to growing this tool for the global community. Our future goals
 
 v1.0 (Current): Launch with a database list of 250 minerals. Includes Smart Search (Auto-Open logic),</BR> 
 expanded Web Dashboard (Instrumentation & Software), and improved input normalization for spaces and hyphens.
+
+<h2>📥 Downloads</h2>
+
+You can download the version 1.0 here:
+
+https://
+
+ Note: The .exe version is a standalone file with the database already embedded.
 
 <h2>🛠️ Setup</h2>
 
