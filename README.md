@@ -7,13 +7,13 @@ A lightweight, high-performance, and offline-first CLI tool designed specificall
 <h2>💎 Project Philosophy</h2>
 
 This program is free for everyone. It was created with a specific focus on the global lapidary community. </BR>
-Many talented cutters operate in Asian countries or developing regions where high-end hardware, stable internet, </BR>
-and modern software environments aren't always available.
+Many talented cutters operate in Asian countries or developing regions where high-end hardware,  </BR>
+stable internet, and modern software environments aren't always available.
 
 <b>To ensure maximum accessibility, this tool is:</b>
 
--Written in DOS/Batch: Requires zero installation. No Python, no Java, no complex environments. </BR>
-If you have a PC, it runs.
+-Written in DOS/Batch: Requires zero installation. No Python, no Java,  </BR>
+no complex environments. If you have a PC, it runs.
 
 -Offline First: The entire mineral database is stored locally. </BR>
 Internet is only required if you choose to use the optional Web Resources.
