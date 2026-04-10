@@ -75,7 +75,7 @@ essential for identifying and working with the stone:
 
 You can download the version 1.0 here:
 
-https://
+[Download GemstoneDB v1.0](https://github.com/JonnyBanana/Gemstone_Database_for_Lapidaries/releases/download/gemstone_database/GemstoneDB.exe)
 
  Note: The .exe version is a standalone file with the database already embedded.
 
