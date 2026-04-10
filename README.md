@@ -58,38 +58,37 @@ essential for identifying and working with the stone:
 
 We are committed to growing this tool for the global community. Our future goals include:
 
-    [ ] Expansion to 500+ mineral files.
+[ ] Expansion to 500+ mineral files.
 
-    [ ] Integrated Hydrostatic Scale Calculator for Specific Gravity.
+[ ] Integrated Hydrostatic Scale Calculator for Specific Gravity.
 
-    [ ] Carat-to-Gram and Weight estimation converters.
+[ ] Carat-to-Gram and Weight estimation converters.
 
-    [ ] Multi-language support for mineral templates.
-
-    [ ] ASCII visualization of Crystal Symmetry systems.
+[ ] ASCII visualization of Crystal Symmetry systems.
 
 <h2>📜 Changelog</h2>
 
-    v1.0 (Current): Launch with a database list of 250 minerals. Includes Smart Search (Auto-Open logic), expanded Web Dashboard (Instrumentation & Software), and improved input normalization for spaces and hyphens.
+v1.0 (Current): Launch with a database list of 250 minerals. Includes Smart Search (Auto-Open logic),</BR> 
+expanded Web Dashboard (Instrumentation & Software), and improved input normalization for spaces and hyphens.
 
 <h2>🛠️ Setup</h2>
 
-    For .EXE users: Simply download and run the executable.
+-For .EXE users: Simply download and run the executable.
 
-    For .BAT (Source) users:
+-For .BAT (Source) users:
 
-        Download the repository.
+ Download the repository.
 
-        Important: Ensure the data folder is in the same directory as the .bat file.
+ Important: Ensure the data folder is in the same directory as the .bat file.
 
-        Run GEMSTONE_DATABASE.bat.
+ Run GEMSTONE_DATABASE.bat.
 
 <h2>🤝 How to Contribute</h2>
 
 We welcome contributions from the community!
 
-    Option 1 (Technical): Fork the repository and submit a Pull Request. Use the provided template.txt to ensure your new entries match our format.
+Option 1 (Technical): Fork the repository and submit a Pull Request. Use the provided template.txt to ensure your new entries match our format.
 
-    Option 2 (Email): Send mineral data or specific requests to: 📧 howtohackitalia@gmail.com
+Option 2 (Email): Send mineral data or specific requests to: 📧 howtohackitalia@gmail.com
 
 Created for the global lapidary community. Keep cutting!
