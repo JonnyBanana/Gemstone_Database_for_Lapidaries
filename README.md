@@ -77,11 +77,11 @@ expanded Web Dashboard (Instrumentation & Software), and improved input normaliz
 
 -For .BAT (Source) users:
 
- Download the repository.
+ 1. Download the repository.
 
- Important: Ensure the data folder is in the same directory as the .bat file.
+ 2. Important: Ensure the data folder is in the same directory as the .bat file.
 
- Run GEMSTONE_DATABASE.bat.
+ 3. Run GEMSTONE_DATABASE.bat.
 
 <h2>🤝 How to Contribute</h2>
 
