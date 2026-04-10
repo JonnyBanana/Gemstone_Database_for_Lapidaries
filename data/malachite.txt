@@ -1,0 +1,28 @@
+Name: Malachite
+Formula: Cu2CO3(OH)2
+Crystal System: Monoclinic
+
+Color: Green banded
+Hardness: 3.5-4
+Specific Gravity: 3.6-4.0
+
+Refractive Index: 1.65-1.91
+Birefringence: 0.250
+Optical: Anisotropic
+Refraction: Birefringent
+
+Pleochroism: Strong
+
+Cleavage: Perfect
+Fracture: Splintery
+
+Primary Sources: Congo, Zambia
+
+Treatments: Stabilization common
+
+Cuts: Cabochon / Carving
+
+Faceted Cuts:
+None
+
+Phenomena: None

@@ -1,0 +1,29 @@
+Name: Rock Crystal
+Formula: SiO2
+Crystal System: Trigonal
+
+Color: Colorless
+Hardness: 7
+Specific Gravity: 2.65
+
+Refractive Index: 1.544-1.553
+Birefringence: 0.009
+Optical: Anisotropic
+Refraction: Birefringent
+
+Pleochroism: None
+
+Cleavage: None
+Fracture: Conchoidal
+
+Primary Sources: Brazil, Madagascar
+
+Treatments: None
+
+Cuts: Faceted
+
+Faceted Cuts:
+Round brilliant
+Emerald cut
+
+Phenomena: None

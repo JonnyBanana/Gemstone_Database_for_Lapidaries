@@ -1,0 +1,28 @@
+Name: Prehnite
+Formula: Ca2Al(AlSi3O10)(OH)2
+Crystal System: Orthorhombic
+
+Color: Green
+Hardness: 6-6.5
+Specific Gravity: 2.8-2.9
+
+Refractive Index: 1.61-1.67
+Birefringence: 0.020
+Optical: Anisotropic
+Refraction: Birefringent
+
+Pleochroism: Weak
+
+Cleavage: Poor
+Fracture: Uneven
+
+Primary Sources: South Africa, Australia
+
+Treatments: None
+
+Cuts: Cabochon
+
+Faceted Cuts:
+None
+
+Phenomena: None

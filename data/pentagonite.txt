@@ -1,0 +1,28 @@
+Name: Pentagonite
+Formula: Ca(VO)Si4O10·4H2O
+Crystal System: Orthorhombic
+
+Color: Blue
+Hardness: 3.5-4
+Specific Gravity: 2.6
+
+Refractive Index: 1.70-1.72
+Birefringence: Moderate
+Optical: Anisotropic
+Refraction: Birefringent
+
+Pleochroism: Weak
+
+Cleavage: Good
+Fracture: Uneven
+
+Primary Sources: India
+
+Treatments: None
+
+Cuts: Specimen
+
+Faceted Cuts:
+None
+
+Phenomena: Crystal sprays

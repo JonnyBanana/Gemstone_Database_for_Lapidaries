@@ -1,0 +1,28 @@
+Name: Moldavite
+Formula: Natural glass
+Crystal System: Amorphous
+
+Color: Green
+Hardness: 5.5
+Specific Gravity: 2.3
+
+Refractive Index: 1.48-1.51
+Birefringence: None
+Optical: Isotropic
+Refraction: Single
+
+Pleochroism: None
+
+Cleavage: None
+Fracture: Conchoidal
+
+Primary Sources: Czech Republic
+
+Treatments: None
+
+Cuts: Cabochon
+
+Faceted Cuts:
+Freeform
+
+Phenomena: Natural etching

@@ -1,0 +1,28 @@
+Name: Kainite
+Formula: KMg(SO4)Cl·3H2O
+Crystal System: Monoclinic
+
+Color: Colorless, yellow
+Hardness: 2.5-3
+Specific Gravity: 2.1
+
+Refractive Index: 1.49-1.50
+Birefringence: 0.010
+Optical: Anisotropic
+Refraction: Birefringent
+
+Pleochroism: None
+
+Cleavage: Good
+Fracture: Uneven
+
+Primary Sources: Germany
+
+Treatments: None
+
+Cuts: Rare / Collector
+
+Faceted Cuts:
+None
+
+Phenomena: None

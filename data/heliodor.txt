@@ -1,0 +1,30 @@
+Name: Heliodor
+Formula: Be3Al2Si6O18
+Crystal System: Hexagonal
+
+Color: Yellow
+Hardness: 7.5-8
+Specific Gravity: 2.7
+
+Refractive Index: 1.57-1.59
+Birefringence: 0.005
+Optical: Anisotropic
+Refraction: Birefringent
+
+Pleochroism: Weak
+
+Cleavage: Poor
+Fracture: Uneven
+
+Primary Sources: Brazil, Namibia
+
+Treatments: Heat
+
+Cuts: Faceted
+
+Faceted Cuts:
+Emerald cut
+Oval
+Cushion
+
+Phenomena: None

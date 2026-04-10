@@ -1,0 +1,28 @@
+Name: Nepheline
+Formula: (Na,K)AlSiO4
+Crystal System: Hexagonal
+
+Color: Gray, green
+Hardness: 5.5-6
+Specific Gravity: 2.5-2.6
+
+Refractive Index: 1.52-1.54
+Birefringence: Low
+Optical: Anisotropic
+Refraction: Birefringent
+
+Pleochroism: Weak
+
+Cleavage: Poor
+Fracture: Uneven
+
+Primary Sources: Russia, Canada
+
+Treatments: None
+
+Cuts: Rare / Collector
+
+Faceted Cuts:
+None
+
+Phenomena: None

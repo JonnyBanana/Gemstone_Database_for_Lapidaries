@@ -1,0 +1,28 @@
+Name: Olivenite
+Formula: Cu2AsO4OH
+Crystal System: Monoclinic
+
+Color: Olive green
+Hardness: 3
+Specific Gravity: 4.3
+
+Refractive Index: 1.80-1.85
+Birefringence: 0.030
+Optical: Anisotropic
+Refraction: Birefringent
+
+Pleochroism: Moderate
+
+Cleavage: Poor
+Fracture: Uneven
+
+Primary Sources: UK, Germany
+
+Treatments: None
+
+Cuts: Rare / Collector
+
+Faceted Cuts:
+None
+
+Phenomena: None

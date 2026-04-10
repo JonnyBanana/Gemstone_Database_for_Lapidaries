@@ -1,0 +1,28 @@
+Name: Hackmanite
+Formula: Na8Al6Si6O24(Cl,S)2
+Crystal System: Cubic
+
+Color: Violet, pink
+Hardness: 5.5-6
+Specific Gravity: 2.3-2.4
+
+Refractive Index: 1.48-1.50
+Birefringence: None
+Optical: Isotropic
+Refraction: Single (Monorefringent)
+
+Pleochroism: None
+
+Cleavage: Poor
+Fracture: Conchoidal
+
+Primary Sources: Afghanistan, Greenland
+
+Treatments: None
+
+Cuts: Cabochon
+
+Faceted Cuts:
+None
+
+Phenomena: Color change (tenebrescence)

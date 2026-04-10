@@ -1,0 +1,28 @@
+Name: Jarosite
+Formula: KFe3(SO4)2(OH)6
+Crystal System: Trigonal
+
+Color: Yellow-brown
+Hardness: 2.5-3
+Specific Gravity: 3.1
+
+Refractive Index: 1.82-1.84
+Birefringence: 0.020
+Optical: Anisotropic
+Refraction: Birefringent
+
+Pleochroism: Weak
+
+Cleavage: Poor
+Fracture: Uneven
+
+Primary Sources: Spain, USA
+
+Treatments: None
+
+Cuts: Rare / Collector
+
+Faceted Cuts:
+None
+
+Phenomena: None

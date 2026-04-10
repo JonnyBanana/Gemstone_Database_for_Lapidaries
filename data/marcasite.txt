@@ -1,0 +1,28 @@
+Name: Marcasite
+Formula: FeS2
+Crystal System: Orthorhombic
+
+Color: Pale bronze
+Hardness: 6-6.5
+Specific Gravity: 4.8-4.9
+
+Refractive Index: Opaque
+Birefringence: None
+Optical: Opaque
+Refraction: None
+
+Pleochroism: None
+
+Cleavage: Poor
+Fracture: Uneven
+
+Primary Sources: Peru, USA
+
+Treatments: None
+
+Cuts: Faceted (historical)
+
+Faceted Cuts:
+Rose cut
+
+Phenomena: None

@@ -1,0 +1,28 @@
+Name: Ilmenite
+Formula: FeTiO3
+Crystal System: Trigonal
+
+Color: Black
+Hardness: 5-6
+Specific Gravity: 4.7-4.8
+
+Refractive Index: Opaque
+Birefringence: None
+Optical: Opaque
+Refraction: None
+
+Pleochroism: None
+
+Cleavage: None
+Fracture: Uneven
+
+Primary Sources: Australia, South Africa
+
+Treatments: None
+
+Cuts: Rare / Collector
+
+Faceted Cuts:
+None
+
+Phenomena: None

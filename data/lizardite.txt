@@ -1,0 +1,28 @@
+Name: Lizardite
+Formula: Mg3Si2O5(OH)4
+Crystal System: Monoclinic
+
+Color: Green
+Hardness: 2.5-3.5
+Specific Gravity: 2.5
+
+Refractive Index: 1.55-1.57
+Birefringence: Low
+Optical: Anisotropic
+Refraction: Birefringent
+
+Pleochroism: Weak
+
+Cleavage: Good
+Fracture: Uneven
+
+Primary Sources: UK, USA
+
+Treatments: None
+
+Cuts: Cabochon
+
+Faceted Cuts:
+None
+
+Phenomena: None

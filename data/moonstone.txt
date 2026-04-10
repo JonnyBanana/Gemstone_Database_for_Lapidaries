@@ -1,0 +1,28 @@
+Name: Moonstone
+Formula: KAlSi3O8
+Crystal System: Monoclinic
+
+Color: Colorless, white
+Hardness: 6-6.5
+Specific Gravity: 2.6
+
+Refractive Index: 1.52-1.53
+Birefringence: 0.008
+Optical: Anisotropic
+Refraction: Birefringent
+
+Pleochroism: None
+
+Cleavage: Perfect
+Fracture: Uneven
+
+Primary Sources: Sri Lanka, India
+
+Treatments: None
+
+Cuts: Cabochon
+
+Faceted Cuts:
+None
+
+Phenomena: Adularescence

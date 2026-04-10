@@ -1,0 +1,28 @@
+Name: Pearl
+Formula: CaCO3 (organic composite)
+Crystal System: Orthorhombic (aragonite)
+
+Color: White, cream, black
+Hardness: 2.5-4.5
+Specific Gravity: 2.6-2.8
+
+Refractive Index: 1.52-1.66
+Birefringence: 0.150
+Optical: Anisotropic
+Refraction: Birefringent
+
+Pleochroism: None
+
+Cleavage: None
+Fracture: Uneven
+
+Primary Sources: Worldwide
+
+Treatments: Bleaching, dyeing
+
+Cuts: None (natural form)
+
+Faceted Cuts:
+None
+
+Phenomena: Orient

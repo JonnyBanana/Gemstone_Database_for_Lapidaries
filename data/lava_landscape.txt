@@ -1,0 +1,28 @@
+Name: Lava Landscape Stone
+Formula: Volcanic rock
+Crystal System: Aggregate
+
+Color: Mixed
+Hardness: 5-6
+Specific Gravity: 2.5-3.0
+
+Refractive Index: Variable
+Birefringence: Variable
+Optical: Aggregate
+Refraction: Mixed
+
+Pleochroism: None
+
+Cleavage: None
+Fracture: Irregular
+
+Primary Sources: Worldwide
+
+Treatments: None
+
+Cuts: Cabochon
+
+Faceted Cuts:
+None
+
+Phenomena: Scenic patterns

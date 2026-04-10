@@ -1,0 +1,28 @@
+Name: Howlite
+Formula: Ca2B5SiO9(OH)5
+Crystal System: Monoclinic
+
+Color: White with gray veins
+Hardness: 3.5
+Specific Gravity: 2.5-2.6
+
+Refractive Index: 1.58-1.60
+Birefringence: 0.020
+Optical: Anisotropic
+Refraction: Birefringent
+
+Pleochroism: None
+
+Cleavage: None
+Fracture: Uneven
+
+Primary Sources: USA, Canada
+
+Treatments: Dyeing common
+
+Cuts: Cabochon
+
+Faceted Cuts:
+None
+
+Phenomena: None

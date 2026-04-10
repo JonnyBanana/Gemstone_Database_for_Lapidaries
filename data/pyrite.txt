@@ -1,0 +1,28 @@
+Name: Pyrite
+Formula: FeS2
+Crystal System: Cubic
+
+Color: Brass yellow
+Hardness: 6-6.5
+Specific Gravity: 5.0
+
+Refractive Index: Opaque
+Birefringence: None
+Optical: Opaque
+Refraction: None
+
+Pleochroism: None
+
+Cleavage: Poor
+Fracture: Uneven
+
+Primary Sources: Peru, Spain
+
+Treatments: None
+
+Cuts: Faceted (historical) / Collector
+
+Faceted Cuts:
+Rose cut
+
+Phenomena: None

@@ -1,0 +1,29 @@
+Name: Kornerupine
+Formula: (Mg,Fe)3Al6(Si,Al,B)5O21(OH)
+Crystal System: Orthorhombic
+
+Color: Green, brown
+Hardness: 6.5-7
+Specific Gravity: 3.3-3.4
+
+Refractive Index: 1.66-1.70
+Birefringence: 0.010
+Optical: Anisotropic
+Refraction: Birefringent
+
+Pleochroism: Strong
+
+Cleavage: Poor
+Fracture: Uneven
+
+Primary Sources: Madagascar, Sri Lanka
+
+Treatments: None
+
+Cuts: Faceted
+
+Faceted Cuts:
+Oval
+Cushion
+
+Phenomena: None

@@ -1,0 +1,29 @@
+Name: Musgravite
+Formula: (Mg,Fe,Zn)2BeAl6O12
+Crystal System: Trigonal
+
+Color: Gray, green
+Hardness: 8-8.5
+Specific Gravity: 3.5
+
+Refractive Index: 1.72-1.74
+Birefringence: 0.008
+Optical: Anisotropic
+Refraction: Birefringent
+
+Pleochroism: Weak
+
+Cleavage: Poor
+Fracture: Conchoidal
+
+Primary Sources: Australia, Madagascar
+
+Treatments: None
+
+Cuts: Faceted
+
+Faceted Cuts:
+Oval
+Cushion
+
+Phenomena: None

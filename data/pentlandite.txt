@@ -1,0 +1,28 @@
+Name: Pentlandite
+Formula: (Fe,Ni)9S8
+Crystal System: Cubic
+
+Color: Bronze-yellow
+Hardness: 3.5-4
+Specific Gravity: 4.6-5.0
+
+Refractive Index: Opaque
+Birefringence: None
+Optical: Opaque
+Refraction: None
+
+Pleochroism: None
+
+Cleavage: Poor
+Fracture: Uneven
+
+Primary Sources: Canada, Russia
+
+Treatments: None
+
+Cuts: Rare / Collector
+
+Faceted Cuts:
+None
+
+Phenomena: None

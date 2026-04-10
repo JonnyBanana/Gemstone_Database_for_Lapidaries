@@ -1,0 +1,28 @@
+Name: Seraphinite
+Formula: Clinochlore
+Crystal System: Monoclinic
+
+Color: Green
+Hardness: 2-2.5
+Specific Gravity: 2.6
+
+Refractive Index: 1.55-1.59
+Birefringence: Low
+Optical: Anisotropic
+Refraction: Birefringent
+
+Pleochroism: Strong
+
+Cleavage: Perfect
+Fracture: Uneven
+
+Primary Sources: Russia
+
+Treatments: None
+
+Cuts: Cabochon
+
+Faceted Cuts:
+None
+
+Phenomena: Feather chatoyancy

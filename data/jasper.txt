@@ -1,0 +1,28 @@
+Name: Jasper
+Formula: SiO2
+Crystal System: Trigonal (cryptocrystalline)
+
+Color: Various
+Hardness: 6.5-7
+Specific Gravity: 2.6
+
+Refractive Index: 1.53-1.54
+Birefringence: None
+Optical: Anisotropic
+Refraction: Birefringent
+
+Pleochroism: None
+
+Cleavage: None
+Fracture: Conchoidal
+
+Primary Sources: Worldwide
+
+Treatments: Dyeing possible
+
+Cuts: Cabochon
+
+Faceted Cuts:
+None
+
+Phenomena: None

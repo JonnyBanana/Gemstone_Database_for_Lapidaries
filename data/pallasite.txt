@@ -1,0 +1,28 @@
+Name: Pallasite
+Formula: Olivine + Fe-Ni metal
+Crystal System: Mixed
+
+Color: Green crystals in metal
+Hardness: 6.5-7
+Specific Gravity: 4.5-5.0
+
+Refractive Index: Variable
+Birefringence: Variable
+Optical: Mixed
+Refraction: Mixed
+
+Pleochroism: None
+
+Cleavage: Poor
+Fracture: Irregular
+
+Primary Sources: Meteorites
+
+Treatments: None
+
+Cuts: Slice / Cabochon
+
+Faceted Cuts:
+None
+
+Phenomena: Translucent olivine in metal

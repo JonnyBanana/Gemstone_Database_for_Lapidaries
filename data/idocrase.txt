@@ -1,0 +1,29 @@
+Name: Idocrase (Vesuvianite)
+Formula: Ca10(Mg,Fe)2Al4(SiO4)5(Si2O7)2(OH,F)4
+Crystal System: Tetragonal
+
+Color: Green, brown
+Hardness: 6.5
+Specific Gravity: 3.3-3.4
+
+Refractive Index: 1.70-1.72
+Birefringence: 0.005
+Optical: Anisotropic
+Refraction: Birefringent
+
+Pleochroism: Weak
+
+Cleavage: Poor
+Fracture: Uneven
+
+Primary Sources: Italy, Canada
+
+Treatments: None
+
+Cuts: Faceted / Cabochon
+
+Faceted Cuts:
+Oval
+Cushion
+
+Phenomena: None

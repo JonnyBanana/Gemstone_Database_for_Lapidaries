@@ -1,0 +1,29 @@
+Name: Jeremejevite
+Formula: Al6(BO3)5(F,OH)3
+Crystal System: Hexagonal
+
+Color: Colorless, blue
+Hardness: 6.5-7.5
+Specific Gravity: 3.3
+
+Refractive Index: 1.64-1.65
+Birefringence: 0.005
+Optical: Anisotropic
+Refraction: Birefringent
+
+Pleochroism: Weak
+
+Cleavage: Poor
+Fracture: Conchoidal
+
+Primary Sources: Namibia, Russia
+
+Treatments: None
+
+Cuts: Faceted
+
+Faceted Cuts:
+Oval
+Cushion
+
+Phenomena: None

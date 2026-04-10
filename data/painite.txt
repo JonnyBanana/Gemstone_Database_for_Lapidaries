@@ -1,0 +1,29 @@
+Name: Painite
+Formula: CaZrAl9O15(BO3)
+Crystal System: Hexagonal
+
+Color: Brown-red
+Hardness: 8
+Specific Gravity: 4.0
+
+Refractive Index: 1.78-1.82
+Birefringence: 0.010
+Optical: Anisotropic
+Refraction: Birefringent
+
+Pleochroism: Moderate
+
+Cleavage: Poor
+Fracture: Conchoidal
+
+Primary Sources: Myanmar
+
+Treatments: None
+
+Cuts: Faceted
+
+Faceted Cuts:
+Oval
+Cushion
+
+Phenomena: None

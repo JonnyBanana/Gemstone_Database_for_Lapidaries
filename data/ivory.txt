@@ -1,0 +1,28 @@
+Name: Ivory
+Formula: Organic (dentine)
+Crystal System: Amorphous
+
+Color: White, cream
+Hardness: 2.5
+Specific Gravity: 1.7-2.0
+
+Refractive Index: 1.53
+Birefringence: None
+Optical: Isotropic
+Refraction: Single (Monorefringent)
+
+Pleochroism: None
+
+Cleavage: None
+Fracture: Splintery
+
+Primary Sources: Africa, Asia
+
+Treatments: None
+
+Cuts: Carving
+
+Faceted Cuts:
+None
+
+Phenomena: None

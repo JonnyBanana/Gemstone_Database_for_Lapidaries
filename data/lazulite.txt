@@ -1,0 +1,28 @@
+Name: Lazulite
+Formula: MgAl2(PO4)2(OH)2
+Crystal System: Monoclinic
+
+Color: Blue
+Hardness: 5.5-6
+Specific Gravity: 3.0-3.1
+
+Refractive Index: 1.60-1.64
+Birefringence: 0.020
+Optical: Anisotropic
+Refraction: Birefringent
+
+Pleochroism: Moderate
+
+Cleavage: Poor
+Fracture: Uneven
+
+Primary Sources: Austria, Brazil
+
+Treatments: None
+
+Cuts: Rare / Collector
+
+Faceted Cuts:
+Step cut
+
+Phenomena: None

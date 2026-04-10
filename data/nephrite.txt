@@ -1,0 +1,28 @@
+Name: Nephrite
+Formula: Ca2(Mg,Fe)5Si8O22(OH)2
+Crystal System: Monoclinic
+
+Color: Green, white
+Hardness: 6-6.5
+Specific Gravity: 2.9-3.1
+
+Refractive Index: 1.60-1.63
+Birefringence: 0.020
+Optical: Anisotropic (aggregate)
+Refraction: Birefringent
+
+Pleochroism: None
+
+Cleavage: None
+Fracture: Splintery
+
+Primary Sources: China, New Zealand
+
+Treatments: None
+
+Cuts: Cabochon / Carving
+
+Faceted Cuts:
+None
+
+Phenomena: None

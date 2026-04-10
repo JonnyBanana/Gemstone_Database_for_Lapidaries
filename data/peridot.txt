@@ -1,0 +1,30 @@
+Name: Peridot
+Formula: (Mg,Fe)2SiO4
+Crystal System: Orthorhombic
+
+Color: Green
+Hardness: 6.5-7
+Specific Gravity: 3.2-4.3
+
+Refractive Index: 1.65-1.69
+Birefringence: 0.035
+Optical: Anisotropic
+Refraction: Birefringent
+
+Pleochroism: Weak
+
+Cleavage: Poor
+Fracture: Conchoidal
+
+Primary Sources: Pakistan, Myanmar
+
+Treatments: None
+
+Cuts: Faceted
+
+Faceted Cuts:
+Oval
+Cushion
+Round
+
+Phenomena: None

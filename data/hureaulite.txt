@@ -1,0 +1,28 @@
+Name: Hureaulite
+Formula: Mn5(PO4)2(HPO4)2·4H2O
+Crystal System: Monoclinic
+
+Color: Pink
+Hardness: 4.5-5
+Specific Gravity: 3.0
+
+Refractive Index: 1.62-1.65
+Birefringence: 0.020
+Optical: Anisotropic
+Refraction: Birefringent
+
+Pleochroism: Weak
+
+Cleavage: Good
+Fracture: Uneven
+
+Primary Sources: France
+
+Treatments: None
+
+Cuts: Rare / Collector
+
+Faceted Cuts:
+None
+
+Phenomena: None

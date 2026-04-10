@@ -1,0 +1,28 @@
+Name: Lepidolite
+Formula: K(Li,Al)3(Si,Al)4O10(F,OH)2
+Crystal System: Monoclinic
+
+Color: Lilac, pink
+Hardness: 2.5-3.5
+Specific Gravity: 2.8-2.9
+
+Refractive Index: 1.54-1.55
+Birefringence: 0.010
+Optical: Anisotropic
+Refraction: Birefringent
+
+Pleochroism: Weak
+
+Cleavage: Perfect
+Fracture: Uneven
+
+Primary Sources: Brazil, Madagascar
+
+Treatments: None
+
+Cuts: Cabochon
+
+Faceted Cuts:
+None
+
+Phenomena: None

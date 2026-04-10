@@ -1,0 +1,28 @@
+Name: Manganotantalite
+Formula: MnTa2O6
+Crystal System: Orthorhombic
+
+Color: Brown, black
+Hardness: 6-6.5
+Specific Gravity: 7.0-7.5
+
+Refractive Index: 2.2-2.3
+Birefringence: Moderate
+Optical: Anisotropic
+Refraction: Birefringent
+
+Pleochroism: Weak
+
+Cleavage: Poor
+Fracture: Uneven
+
+Primary Sources: Madagascar, Brazil
+
+Treatments: None
+
+Cuts: Rare / Collector
+
+Faceted Cuts:
+None
+
+Phenomena: None

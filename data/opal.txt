@@ -1,0 +1,28 @@
+Name: Opal
+Formula: SiO2·nH2O
+Crystal System: Amorphous
+
+Color: Various
+Hardness: 5.5-6.5
+Specific Gravity: 1.9-2.2
+
+Refractive Index: 1.37-1.47
+Birefringence: None
+Optical: Isotropic
+Refraction: Single (Monorefringent)
+
+Pleochroism: None
+
+Cleavage: None
+Fracture: Conchoidal
+
+Primary Sources: Australia, Ethiopia
+
+Treatments: Sugar/acid, smoke
+
+Cuts: Cabochon
+
+Faceted Cuts:
+None
+
+Phenomena: Play-of-color

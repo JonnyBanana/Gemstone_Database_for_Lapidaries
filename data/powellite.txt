@@ -1,0 +1,28 @@
+Name: Powellite
+Formula: CaMoO4
+Crystal System: Tetragonal
+
+Color: Yellow, green
+Hardness: 3.5-4
+Specific Gravity: 4.2
+
+Refractive Index: 1.97-1.99
+Birefringence: 0.020
+Optical: Anisotropic
+Refraction: Birefringent
+
+Pleochroism: Weak
+
+Cleavage: Poor
+Fracture: Uneven
+
+Primary Sources: USA, Mexico
+
+Treatments: None
+
+Cuts: Rare / Collector
+
+Faceted Cuts:
+None
+
+Phenomena: Fluorescence

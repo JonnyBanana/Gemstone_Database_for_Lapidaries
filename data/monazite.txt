@@ -1,0 +1,28 @@
+Name: Monazite
+Formula: (Ce,La,Nd,Th)PO4
+Crystal System: Monoclinic
+
+Color: Brown, yellow
+Hardness: 5-5.5
+Specific Gravity: 4.6-5.7
+
+Refractive Index: 1.79-1.84
+Birefringence: 0.040
+Optical: Anisotropic
+Refraction: Birefringent
+
+Pleochroism: Strong
+
+Cleavage: Distinct
+Fracture: Uneven
+
+Primary Sources: India, Brazil
+
+Treatments: None
+
+Cuts: Rare / Collector
+
+Faceted Cuts:
+None
+
+Phenomena: Radioactive (note)

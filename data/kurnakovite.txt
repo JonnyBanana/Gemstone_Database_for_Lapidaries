@@ -1,0 +1,28 @@
+Name: Kurnakovite
+Formula: MgB3O3(OH)5·5H2O
+Crystal System: Monoclinic
+
+Color: Colorless
+Hardness: 2.5-3
+Specific Gravity: 1.8
+
+Refractive Index: 1.49-1.50
+Birefringence: 0.010
+Optical: Anisotropic
+Refraction: Birefringent
+
+Pleochroism: None
+
+Cleavage: Good
+Fracture: Uneven
+
+Primary Sources: USA, Russia
+
+Treatments: None
+
+Cuts: Rare / Collector
+
+Faceted Cuts:
+None
+
+Phenomena: None

@@ -1,0 +1,28 @@
+Name: Larnite
+Formula: Ca2SiO4
+Crystal System: Monoclinic
+
+Color: Gray, green
+Hardness: 5-6
+Specific Gravity: 3.2-3.4
+
+Refractive Index: 1.72-1.75
+Birefringence: 0.020
+Optical: Anisotropic
+Refraction: Birefringent
+
+Pleochroism: Weak
+
+Cleavage: Poor
+Fracture: Uneven
+
+Primary Sources: Ireland
+
+Treatments: None
+
+Cuts: Rare / Collector
+
+Faceted Cuts:
+None
+
+Phenomena: None

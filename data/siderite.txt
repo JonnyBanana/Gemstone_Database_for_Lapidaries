@@ -1,0 +1,28 @@
+Name: Siderite
+Formula: FeCO3
+Crystal System: Trigonal
+
+Color: Brown, yellow
+Hardness: 3.5-4
+Specific Gravity: 3.8
+
+Refractive Index: 1.63-1.88
+Birefringence: 0.200
+Optical: Anisotropic
+Refraction: Birefringent
+
+Pleochroism: Weak
+
+Cleavage: Perfect
+Fracture: Uneven
+
+Primary Sources: Austria, Germany
+
+Treatments: None
+
+Cuts: Rare / Collector
+
+Faceted Cuts:
+None
+
+Phenomena: None

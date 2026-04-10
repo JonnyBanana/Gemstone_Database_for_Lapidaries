@@ -1,0 +1,29 @@
+Name: Petalite
+Formula: LiAlSi4O10
+Crystal System: Monoclinic
+
+Color: Colorless, pink
+Hardness: 6-6.5
+Specific Gravity: 2.4
+
+Refractive Index: 1.50-1.52
+Birefringence: 0.008
+Optical: Anisotropic
+Refraction: Birefringent
+
+Pleochroism: Weak
+
+Cleavage: Perfect
+Fracture: Uneven
+
+Primary Sources: Brazil, Namibia
+
+Treatments: None
+
+Cuts: Faceted
+
+Faceted Cuts:
+Oval
+Cushion
+
+Phenomena: None

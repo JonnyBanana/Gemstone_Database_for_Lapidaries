@@ -1,0 +1,28 @@
+Name: Pumpellyite
+Formula: Ca2(Mg,Fe,Al)Al2(SiO4)(Si2O7)(OH)2·H2O
+Crystal System: Monoclinic
+
+Color: Green
+Hardness: 5.5-6
+Specific Gravity: 3.2-3.4
+
+Refractive Index: 1.68-1.72
+Birefringence: 0.020
+Optical: Anisotropic
+Refraction: Birefringent
+
+Pleochroism: Weak
+
+Cleavage: Poor
+Fracture: Uneven
+
+Primary Sources: USA, Japan
+
+Treatments: None
+
+Cuts: Rare / Collector
+
+Faceted Cuts:
+None
+
+Phenomena: None

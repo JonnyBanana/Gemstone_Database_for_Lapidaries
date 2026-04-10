@@ -1,0 +1,28 @@
+Name: Mimetite
+Formula: Pb5(AsO4)3Cl
+Crystal System: Hexagonal
+
+Color: Yellow, orange
+Hardness: 3.5-4
+Specific Gravity: 7.1-7.3
+
+Refractive Index: 2.13-2.16
+Birefringence: Low
+Optical: Anisotropic
+Refraction: Birefringent
+
+Pleochroism: Weak
+
+Cleavage: Poor
+Fracture: Uneven
+
+Primary Sources: Namibia, Mexico
+
+Treatments: None
+
+Cuts: Rare / Collector
+
+Faceted Cuts:
+None
+
+Phenomena: None

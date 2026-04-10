@@ -1,0 +1,28 @@
+Name: Leucite
+Formula: KAlSi2O6
+Crystal System: Tetragonal
+
+Color: White, gray
+Hardness: 5.5-6
+Specific Gravity: 2.5
+
+Refractive Index: 1.50-1.51
+Birefringence: None (pseudo-isotropic)
+Optical: Isotropic (pseudo)
+Refraction: Single (Monorefringent)
+
+Pleochroism: None
+
+Cleavage: Poor
+Fracture: Uneven
+
+Primary Sources: Italy, USA
+
+Treatments: None
+
+Cuts: Rare / Collector
+
+Faceted Cuts:
+None
+
+Phenomena: None

@@ -1,0 +1,29 @@
+Name: Hauyne
+Formula: Na3Ca(Si3Al3)O12(SO4)
+Crystal System: Cubic
+
+Color: Blue
+Hardness: 5.5-6
+Specific Gravity: 2.4-2.5
+
+Refractive Index: 1.50-1.51
+Birefringence: None
+Optical: Isotropic
+Refraction: Single (Monorefringent)
+
+Pleochroism: None
+
+Cleavage: Poor
+Fracture: Uneven
+
+Primary Sources: Germany, Italy
+
+Treatments: None
+
+Cuts: Faceted
+
+Faceted Cuts:
+Round
+Oval
+
+Phenomena: None

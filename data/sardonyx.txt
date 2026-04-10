@@ -1,0 +1,28 @@
+Name: Sardonyx
+Formula: SiO2
+Crystal System: Trigonal
+
+Color: Brown, white bands
+Hardness: 7
+Specific Gravity: 2.6
+
+Refractive Index: 1.53-1.54
+Birefringence: None
+Optical: Microcrystalline
+Refraction: None
+
+Pleochroism: None
+
+Cleavage: None
+Fracture: Conchoidal
+
+Primary Sources: India, Brazil
+
+Treatments: Dyeing possible
+
+Cuts: Cabochon
+
+Faceted Cuts:
+None
+
+Phenomena: Banding

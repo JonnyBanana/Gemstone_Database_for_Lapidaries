@@ -1,0 +1,28 @@
+Name: Halite
+Formula: NaCl
+Crystal System: Cubic
+
+Color: Colorless
+Hardness: 2.5
+Specific Gravity: 2.1
+
+Refractive Index: 1.54
+Birefringence: None
+Optical: Isotropic
+Refraction: Single (Monorefringent)
+
+Pleochroism: None
+
+Cleavage: Perfect
+Fracture: Conchoidal
+
+Primary Sources: Worldwide
+
+Treatments: None
+
+Cuts: Rare / Collector
+
+Faceted Cuts:
+None
+
+Phenomena: None

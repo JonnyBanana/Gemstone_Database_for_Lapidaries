@@ -1,0 +1,28 @@
+Name: Shattuckite
+Formula: Cu5(SiO3)4(OH)2
+Crystal System: Orthorhombic
+
+Color: Blue
+Hardness: 3.5-4
+Specific Gravity: 3.8-4.1
+
+Refractive Index: 1.72-1.78
+Birefringence: 0.040
+Optical: Anisotropic
+Refraction: Birefringent
+
+Pleochroism: Moderate
+
+Cleavage: Poor
+Fracture: Uneven
+
+Primary Sources: Namibia, USA
+
+Treatments: None
+
+Cuts: Cabochon
+
+Faceted Cuts:
+None
+
+Phenomena: None

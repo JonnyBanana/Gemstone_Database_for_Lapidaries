@@ -1,0 +1,28 @@
+Name: Nickeline
+Formula: NiAs
+Crystal System: Hexagonal
+
+Color: Copper-red
+Hardness: 5-5.5
+Specific Gravity: 7.5-7.8
+
+Refractive Index: Opaque
+Birefringence: None
+Optical: Opaque
+Refraction: None
+
+Pleochroism: None
+
+Cleavage: Poor
+Fracture: Uneven
+
+Primary Sources: Germany, Canada
+
+Treatments: None
+
+Cuts: Rare / Collector
+
+Faceted Cuts:
+None
+
+Phenomena: None

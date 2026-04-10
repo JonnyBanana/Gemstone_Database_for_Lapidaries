@@ -1,0 +1,28 @@
+Name: Pietersite
+Formula: SiO2
+Crystal System: Trigonal
+
+Color: Multicolor
+Hardness: 7
+Specific Gravity: 2.6
+
+Refractive Index: 1.54
+Birefringence: None
+Optical: Aggregate
+Refraction: None
+
+Pleochroism: None
+
+Cleavage: None
+Fracture: Uneven
+
+Primary Sources: Namibia
+
+Treatments: None
+
+Cuts: Cabochon
+
+Faceted Cuts:
+None
+
+Phenomena: Chatoyancy (chaotic)

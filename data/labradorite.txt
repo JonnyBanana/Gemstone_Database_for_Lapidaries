@@ -1,0 +1,28 @@
+Name: Labradorite
+Formula: (Ca,Na)(Al,Si)4O8
+Crystal System: Triclinic
+
+Color: Gray with flashes
+Hardness: 6-6.5
+Specific Gravity: 2.7
+
+Refractive Index: 1.55-1.57
+Birefringence: 0.010
+Optical: Anisotropic
+Refraction: Birefringent
+
+Pleochroism: Weak
+
+Cleavage: Perfect
+Fracture: Uneven
+
+Primary Sources: Canada, Madagascar
+
+Treatments: None
+
+Cuts: Cabochon
+
+Faceted Cuts:
+None
+
+Phenomena: Labradorescence

@@ -1,0 +1,28 @@
+Name: Pectolite
+Formula: NaCa2Si3O8(OH)
+Crystal System: Triclinic
+
+Color: White, blue
+Hardness: 4.5-5
+Specific Gravity: 2.7-2.9
+
+Refractive Index: 1.59-1.64
+Birefringence: 0.020
+Optical: Anisotropic
+Refraction: Birefringent
+
+Pleochroism: Weak
+
+Cleavage: Perfect
+Fracture: Uneven
+
+Primary Sources: Dominican Republic
+
+Treatments: None
+
+Cuts: Cabochon
+
+Faceted Cuts:
+None
+
+Phenomena: None

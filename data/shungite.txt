@@ -1,0 +1,28 @@
+Name: Shungite
+Formula: Carbon-rich
+Crystal System: Amorphous
+
+Color: Black
+Hardness: 3.5-4
+Specific Gravity: 1.9-2.2
+
+Refractive Index: Opaque
+Birefringence: None
+Optical: Opaque
+Refraction: None
+
+Pleochroism: None
+
+Cleavage: None
+Fracture: Uneven
+
+Primary Sources: Russia
+
+Treatments: None
+
+Cuts: Cabochon
+
+Faceted Cuts:
+None
+
+Phenomena: None

@@ -1,0 +1,28 @@
+Name: Hypersthene
+Formula: (Mg,Fe)SiO3
+Crystal System: Orthorhombic
+
+Color: Brown, greenish
+Hardness: 5-6
+Specific Gravity: 3.3-3.5
+
+Refractive Index: 1.65-1.72
+Birefringence: 0.020
+Optical: Anisotropic
+Refraction: Birefringent
+
+Pleochroism: Moderate
+
+Cleavage: Good
+Fracture: Uneven
+
+Primary Sources: Canada, USA
+
+Treatments: None
+
+Cuts: Cabochon
+
+Faceted Cuts:
+None
+
+Phenomena: Schiller

@@ -1,0 +1,28 @@
+Name: Prasiolite
+Formula: SiO2
+Crystal System: Trigonal
+
+Color: Green
+Hardness: 7
+Specific Gravity: 2.65
+
+Refractive Index: 1.544-1.553
+Birefringence: 0.009
+Optical: Anisotropic
+Refraction: Birefringent
+
+Pleochroism: Weak
+
+Cleavage: None
+Fracture: Conchoidal
+
+Primary Sources: Brazil
+
+Treatments: Heat induced
+
+Cuts: Faceted
+
+Faceted Cuts:
+Oval
+
+Phenomena: None

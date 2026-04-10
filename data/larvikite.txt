@@ -1,0 +1,28 @@
+Name: Larvikite
+Formula: Feldspar-rich rock
+Crystal System: Aggregate
+
+Color: Dark gray, blue flashes
+Hardness: 6
+Specific Gravity: 2.7
+
+Refractive Index: Variable
+Birefringence: Variable
+Optical: Aggregate
+Refraction: Mixed
+
+Pleochroism: None
+
+Cleavage: Good
+Fracture: Uneven
+
+Primary Sources: Norway
+
+Treatments: None
+
+Cuts: Cabochon / Decorative
+
+Faceted Cuts:
+None
+
+Phenomena: Schiller effect

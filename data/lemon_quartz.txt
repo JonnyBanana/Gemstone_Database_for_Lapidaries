@@ -1,0 +1,28 @@
+Name: Lemon Quartz
+Formula: SiO2
+Crystal System: Trigonal
+
+Color: Bright yellow
+Hardness: 7
+Specific Gravity: 2.65
+
+Refractive Index: 1.544-1.553
+Birefringence: 0.009
+Optical: Anisotropic
+Refraction: Birefringent
+
+Pleochroism: Weak
+
+Cleavage: None
+Fracture: Conchoidal
+
+Primary Sources: Brazil
+
+Treatments: Irradiation common
+
+Cuts: Faceted
+
+Faceted Cuts:
+Round
+
+Phenomena: None

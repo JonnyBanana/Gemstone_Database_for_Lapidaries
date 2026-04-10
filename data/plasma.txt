@@ -1,0 +1,28 @@
+Name: Plasma
+Formula: SiO2
+Crystal System: Trigonal
+
+Color: Green with red spots
+Hardness: 6.5-7
+Specific Gravity: 2.6
+
+Refractive Index: 1.53-1.54
+Birefringence: None
+Optical: Microcrystalline
+Refraction: None
+
+Pleochroism: None
+
+Cleavage: None
+Fracture: Conchoidal
+
+Primary Sources: India
+
+Treatments: None
+
+Cuts: Cabochon
+
+Faceted Cuts:
+None
+
+Phenomena: None

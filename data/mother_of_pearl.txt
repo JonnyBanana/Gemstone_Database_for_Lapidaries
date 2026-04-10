@@ -1,0 +1,28 @@
+Name: Mother of Pearl
+Formula: CaCO3 (organic composite)
+Crystal System: Orthorhombic (aragonite)
+
+Color: Iridescent white
+Hardness: 2.5-4.5
+Specific Gravity: 2.7
+
+Refractive Index: 1.52-1.66
+Birefringence: 0.150
+Optical: Anisotropic
+Refraction: Birefringent
+
+Pleochroism: None
+
+Cleavage: None
+Fracture: Uneven
+
+Primary Sources: Worldwide
+
+Treatments: Bleaching possible
+
+Cuts: Cabochon / Carving
+
+Faceted Cuts:
+None
+
+Phenomena: Iridescence

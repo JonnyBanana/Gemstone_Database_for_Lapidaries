@@ -1,0 +1,28 @@
+Name: Sillimanite
+Formula: Al2SiO5
+Crystal System: Orthorhombic
+
+Color: Colorless, brown
+Hardness: 6.5-7.5
+Specific Gravity: 3.2-3.3
+
+Refractive Index: 1.66-1.68
+Birefringence: 0.020
+Optical: Anisotropic
+Refraction: Birefringent
+
+Pleochroism: Weak
+
+Cleavage: Good
+Fracture: Uneven
+
+Primary Sources: Sri Lanka, India
+
+Treatments: None
+
+Cuts: Faceted / Cabochon
+
+Faceted Cuts:
+Oval
+
+Phenomena: Cat’s eye (fibrous)

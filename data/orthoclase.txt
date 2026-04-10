@@ -1,0 +1,29 @@
+Name: Orthoclase
+Formula: KAlSi3O8
+Crystal System: Monoclinic
+
+Color: Pink, white
+Hardness: 6
+Specific Gravity: 2.6
+
+Refractive Index: 1.52-1.53
+Birefringence: 0.008
+Optical: Anisotropic
+Refraction: Birefringent
+
+Pleochroism: None
+
+Cleavage: Perfect
+Fracture: Uneven
+
+Primary Sources: Germany, Madagascar
+
+Treatments: None
+
+Cuts: Faceted / Cabochon
+
+Faceted Cuts:
+Oval
+Cushion
+
+Phenomena: None

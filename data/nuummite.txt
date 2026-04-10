@@ -1,0 +1,28 @@
+Name: Nuummite
+Formula: Complex amphibole
+Crystal System: Monoclinic
+
+Color: Black with iridescence
+Hardness: 5-6
+Specific Gravity: 3.2-3.4
+
+Refractive Index: 1.65-1.68
+Birefringence: Moderate
+Optical: Anisotropic
+Refraction: Birefringent
+
+Pleochroism: Strong
+
+Cleavage: Good
+Fracture: Uneven
+
+Primary Sources: Greenland
+
+Treatments: None
+
+Cuts: Cabochon
+
+Faceted Cuts:
+None
+
+Phenomena: Iridescence

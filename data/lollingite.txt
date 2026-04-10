@@ -1,0 +1,28 @@
+Name: Lollingite
+Formula: FeAs2
+Crystal System: Orthorhombic
+
+Color: Silver-gray
+Hardness: 5-5.5
+Specific Gravity: 7.1-7.5
+
+Refractive Index: Opaque
+Birefringence: None
+Optical: Opaque
+Refraction: None
+
+Pleochroism: None
+
+Cleavage: Distinct
+Fracture: Uneven
+
+Primary Sources: Germany, Austria
+
+Treatments: None
+
+Cuts: Rare / Collector
+
+Faceted Cuts:
+None
+
+Phenomena: None

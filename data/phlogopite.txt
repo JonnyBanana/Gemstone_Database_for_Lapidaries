@@ -1,0 +1,28 @@
+Name: Phlogopite
+Formula: KMg3AlSi3O10(F,OH)2
+Crystal System: Monoclinic
+
+Color: Brown
+Hardness: 2.5-3
+Specific Gravity: 2.7-2.9
+
+Refractive Index: 1.56-1.60
+Birefringence: 0.030
+Optical: Anisotropic
+Refraction: Birefringent
+
+Pleochroism: Strong
+
+Cleavage: Perfect
+Fracture: Uneven
+
+Primary Sources: Canada, Russia
+
+Treatments: None
+
+Cuts: Rare / Collector
+
+Faceted Cuts:
+None
+
+Phenomena: None

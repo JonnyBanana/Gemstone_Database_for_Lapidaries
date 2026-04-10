@@ -1,0 +1,28 @@
+Name: Obsidian
+Formula: Volcanic glass (SiO2 dominant)
+Crystal System: Amorphous
+
+Color: Black
+Hardness: 5-5.5
+Specific Gravity: 2.4
+
+Refractive Index: 1.48-1.51
+Birefringence: None
+Optical: Isotropic
+Refraction: Single (Monorefringent)
+
+Pleochroism: None
+
+Cleavage: None
+Fracture: Conchoidal
+
+Primary Sources: USA, Mexico
+
+Treatments: None
+
+Cuts: Cabochon / Carving
+
+Faceted Cuts:
+None
+
+Phenomena: None

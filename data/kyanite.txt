@@ -1,0 +1,28 @@
+Name: Kyanite
+Formula: Al2SiO5
+Crystal System: Triclinic
+
+Color: Blue
+Hardness: 4.5-7 (anisotropic)
+Specific Gravity: 3.5-3.7
+
+Refractive Index: 1.71-1.73
+Birefringence: 0.012
+Optical: Anisotropic
+Refraction: Birefringent
+
+Pleochroism: Moderate to strong
+
+Cleavage: Perfect
+Fracture: Uneven
+
+Primary Sources: Nepal, Brazil
+
+Treatments: None
+
+Cuts: Rare / Collector
+
+Faceted Cuts:
+Step cut
+
+Phenomena: None

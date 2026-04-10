@@ -1,0 +1,28 @@
+Name: Lapis Lazuli
+Formula: Rock (lazurite dominant)
+Crystal System: Cubic (lazurite component)
+
+Color: Blue
+Hardness: 5-5.5
+Specific Gravity: 2.7-2.9
+
+Refractive Index: 1.50
+Birefringence: None
+Optical: Aggregate
+Refraction: None
+
+Pleochroism: None
+
+Cleavage: None
+Fracture: Uneven
+
+Primary Sources: Afghanistan, Chile
+
+Treatments: Dyeing possible
+
+Cuts: Cabochon / Carving
+
+Faceted Cuts:
+None
+
+Phenomena: None

@@ -1,0 +1,28 @@
+Name: Hematite
+Formula: Fe2O3
+Crystal System: Trigonal
+
+Color: Metallic gray to red
+Hardness: 5-6
+Specific Gravity: 5.2-5.3
+
+Refractive Index: Opaque
+Birefringence: None
+Optical: Opaque
+Refraction: None
+
+Pleochroism: None
+
+Cleavage: None
+Fracture: Uneven
+
+Primary Sources: Brazil, Australia
+
+Treatments: None
+
+Cuts: Cabochon
+
+Faceted Cuts:
+None
+
+Phenomena: None

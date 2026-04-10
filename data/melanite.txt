@@ -1,0 +1,29 @@
+Name: Melanite (Andradite Garnet)
+Formula: Ca3Fe2(SiO4)3
+Crystal System: Cubic
+
+Color: Black
+Hardness: 6.5-7
+Specific Gravity: 3.8
+
+Refractive Index: 1.88-1.94
+Birefringence: None
+Optical: Isotropic
+Refraction: Single (Monorefringent)
+
+Pleochroism: None
+
+Cleavage: None
+Fracture: Conchoidal
+
+Primary Sources: Italy, Germany
+
+Treatments: None
+
+Cuts: Faceted
+
+Faceted Cuts:
+Round
+Oval
+
+Phenomena: None

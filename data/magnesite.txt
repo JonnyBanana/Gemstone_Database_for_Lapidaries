@@ -1,0 +1,28 @@
+Name: Magnesite
+Formula: MgCO3
+Crystal System: Trigonal
+
+Color: White
+Hardness: 3.5-4.5
+Specific Gravity: 3.0
+
+Refractive Index: 1.70-1.74
+Birefringence: 0.040
+Optical: Anisotropic
+Refraction: Birefringent
+
+Pleochroism: None
+
+Cleavage: Perfect
+Fracture: Conchoidal
+
+Primary Sources: Austria, Brazil
+
+Treatments: Dyeing common
+
+Cuts: Cabochon
+
+Faceted Cuts:
+None
+
+Phenomena: None

@@ -1,0 +1,28 @@
+Name: Hawk Eye
+Formula: SiO2
+Crystal System: Trigonal
+
+Color: Blue-gray
+Hardness: 7
+Specific Gravity: 2.65
+
+Refractive Index: 1.54
+Birefringence: None
+Optical: Aggregate
+Refraction: None
+
+Pleochroism: None
+
+Cleavage: None
+Fracture: Uneven
+
+Primary Sources: South Africa
+
+Treatments: None
+
+Cuts: Cabochon
+
+Faceted Cuts:
+None
+
+Phenomena: Chatoyancy

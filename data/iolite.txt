@@ -1,0 +1,30 @@
+Name: Iolite
+Formula: (Mg,Fe)2Al4Si5O18
+Crystal System: Orthorhombic
+
+Color: Blue-violet
+Hardness: 7-7.5
+Specific Gravity: 2.6
+
+Refractive Index: 1.53-1.55
+Birefringence: 0.010
+Optical: Anisotropic
+Refraction: Birefringent
+
+Pleochroism: Strong
+
+Cleavage: Poor
+Fracture: Conchoidal
+
+Primary Sources: India, Sri Lanka
+
+Treatments: None
+
+Cuts: Faceted
+
+Faceted Cuts:
+Oval
+Cushion
+Emerald cut
+
+Phenomena: None

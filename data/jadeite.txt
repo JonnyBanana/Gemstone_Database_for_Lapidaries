@@ -1,0 +1,28 @@
+Name: Jadeite
+Formula: NaAlSi2O6
+Crystal System: Monoclinic
+
+Color: Green, white, lavender
+Hardness: 6.5-7
+Specific Gravity: 3.3-3.5
+
+Refractive Index: 1.66-1.68
+Birefringence: 0.012
+Optical: Anisotropic
+Refraction: Birefringent
+
+Pleochroism: Weak
+
+Cleavage: Good
+Fracture: Granular
+
+Primary Sources: Myanmar, Guatemala
+
+Treatments: Bleaching, polymer impregnation
+
+Cuts: Cabochon / Carving
+
+Faceted Cuts:
+None
+
+Phenomena: None

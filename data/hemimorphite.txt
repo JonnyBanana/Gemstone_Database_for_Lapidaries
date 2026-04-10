@@ -1,0 +1,28 @@
+Name: Hemimorphite
+Formula: Zn4Si2O7(OH)2·H2O
+Crystal System: Orthorhombic
+
+Color: Blue, white
+Hardness: 4.5-5
+Specific Gravity: 3.4-3.5
+
+Refractive Index: 1.61-1.63
+Birefringence: 0.020
+Optical: Anisotropic
+Refraction: Birefringent
+
+Pleochroism: Weak
+
+Cleavage: Perfect
+Fracture: Uneven
+
+Primary Sources: China, Mexico
+
+Treatments: None
+
+Cuts: Cabochon
+
+Faceted Cuts:
+None
+
+Phenomena: None

@@ -1,0 +1,29 @@
+Name: Phenakite
+Formula: Be2SiO4
+Crystal System: Trigonal
+
+Color: Colorless
+Hardness: 7.5-8
+Specific Gravity: 2.9-3.0
+
+Refractive Index: 1.65-1.67
+Birefringence: 0.015
+Optical: Anisotropic
+Refraction: Birefringent
+
+Pleochroism: None
+
+Cleavage: Poor
+Fracture: Conchoidal
+
+Primary Sources: Russia, Brazil
+
+Treatments: None
+
+Cuts: Faceted
+
+Faceted Cuts:
+Round
+Oval
+
+Phenomena: None

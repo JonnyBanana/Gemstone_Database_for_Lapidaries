@@ -1,0 +1,28 @@
+Name: Serpentine
+Formula: Mg3Si2O5(OH)4
+Crystal System: Monoclinic
+
+Color: Green
+Hardness: 3-5
+Specific Gravity: 2.5-2.7
+
+Refractive Index: 1.56-1.57
+Birefringence: 0.010
+Optical: Anisotropic
+Refraction: Birefringent
+
+Pleochroism: Weak
+
+Cleavage: Poor
+Fracture: Uneven
+
+Primary Sources: China, Italy
+
+Treatments: None
+
+Cuts: Cabochon / Carving
+
+Faceted Cuts:
+None
+
+Phenomena: None
