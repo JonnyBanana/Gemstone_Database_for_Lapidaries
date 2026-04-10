@@ -118,10 +118,10 @@ expanded Web Dashboard (Instrumentation & Software), and improved input normaliz
 
 <h2>🤝 How to Contribute</h2>
 
-<b>We welcome contributions from the community!</b>
+We welcome contributions from the community!
 
 Option 1 (Technical): Fork the repository and submit a Pull Request. Use the provided template.txt to ensure your new entries match our format.
 
 Option 2 (Email): Send mineral data or specific requests to: howtohackitalia@gmail.com
 
-Created for the global lapidary community. Keep cutting!
+<b>Created for the global lapidary community. Keep cutting!</b>
