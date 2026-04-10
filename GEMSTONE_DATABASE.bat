@@ -31,12 +31,10 @@ echo.
 echo  4. Credits
 echo.
 choice /c 1234 /n /m "Choose an option: "
-
 if errorlevel 4 goto credits
 if errorlevel 3 goto web
 if errorlevel 2 goto list
 if errorlevel 1 goto start
-
 :list
 cls
 echo ==================================
@@ -56,8 +54,6 @@ echo.
 pause
 echo.
 goto menu
-
-
 :credits
 cls
 
@@ -70,7 +66,6 @@ if exist data\credits.txt (
 echo.
 pause
 goto menu
-
 :start
 cls
 echo ==================================
@@ -85,15 +80,13 @@ echo Type EXIT to back to main menu
 echo.
 set "gem="
 set /p gem=^> 
-
-:: === NORMALIZZAZIONE E COMANDI ===
+:: === NORMALIZATION E COMMANDS ===
 if /i "%gem%"=="" goto start
 set gem=%gem: =_%
 set gem=%gem:-=_%
 if /i "%gem%"=="list" goto list
 if /i "%gem%"=="exit" goto menu
-
-:: === MATCH ESATTO ===
+:: === EXACT MATCH ===
 if exist data\%gem%.txt (
     cls
     echo === FOUND ===
@@ -103,18 +96,15 @@ if exist data\%gem%.txt (
     pause
     goto start
 )
-
-:: === LOGICA AUTO-OPEN / SUGGERIMENTI ===
+:: === LOGICA AUTO-OPEN LOGIC/ SUGGESTIONS ===
 set "found_count=0"
 set "last_found="
-
-:: Primo ciclo: Conta quanti match ci sono
+:: First round: Count how many matches there are
 for %%f in (data\*%gem%*.txt) do (
     set /a found_count+=1
     set "last_found=%%~nf"
 )
-
-:: Caso 1: Un solo match trovato -> APRE DIRETTAMENTE
+:: Case 1: Only one match found -> OPENS DIRECTLY
 if %found_count%==1 (
     cls
     echo === AUTO-OPENING: %last_found% ===
@@ -124,8 +114,7 @@ if %found_count%==1 (
     pause
     goto start
 )
-
-:: Caso 2: Nessun match
+:: Case 2: No match
 if %found_count%==0 (
     echo.
     echo Mineral not found!
@@ -133,8 +122,7 @@ if %found_count%==0 (
     pause
     goto start
 )
-
-:: Caso 3: Più match trovati -> ELENCA SUGGERIMENTI
+:: Case 3: Multiple matches found -> LIST OF SUGGESTIONS
 echo.
 echo Multiple matches found (%found_count%):
 echo -------------------------
@@ -145,9 +133,6 @@ echo -------------------------
 echo.
 pause
 goto start
-
-
-
 :web
 cls
 echo.
@@ -167,7 +152,6 @@ echo.
 echo ======================================================
 set "webchoice="
 set /p webchoice="Select category (1-7): "
-
 if "%webchoice%"=="1" goto web_prospect
 if "%webchoice%"=="2" goto web_faceting
 if "%webchoice%"=="3" goto web_market
@@ -175,11 +159,9 @@ if "%webchoice%"=="4" goto web_video
 if "%webchoice%"=="5" goto web_tools
 if "%webchoice%"=="6" goto web_soft
 if "%webchoice%"=="7" goto menu
-
 echo Invalid selection.
 pause
 goto web
-
 :web_prospect
 cls
 echo ======================================================
@@ -195,14 +177,12 @@ echo  5. Back
 echo.
 set "prchoice="
 set /p prchoice="Select resource (1-5): "
-
 if "%prchoice%"=="1" start https://www.mindat.org/ & goto web_prospect
 if "%prchoice%"=="2" start https://portalesgi.isprambiente.it/ & goto web_prospect
 if "%prchoice%"=="3" start https://macrostrat.org/map/ & goto web_prospect
 if "%prchoice%"=="4" start https://www.usgs.gov/centers/gggsc/science/usmin-mineral-deposit-database & goto web_prospect
 if "%prchoice%"=="5" goto web
 goto web_prospect
-
 :web_faceting
 cls
 echo ======================================================
@@ -216,12 +196,10 @@ echo  3. Back
 echo.
 set "fachoice="
 set /p fachoice="Select resource (1-3): "
-
 if "%fachoice%"=="1" start https://gemologyproject.com/wiki/index.php?title=Faceting_Designs & goto web_faceting
 if "%fachoice%"=="2" start http://www.gemartist.org/ & goto web_faceting
 if "%fachoice%"=="3" goto web
 goto web_faceting
-
 :web_market
 cls
 echo ======================================================
@@ -236,13 +214,11 @@ echo  4. Back
 echo.
 set "marchoice="
 set /p marchoice="Select resource (1-4): "
-
 if "%marchoice%"=="1" start https://www.gemval.com/ & goto web_market
 if "%marchoice%"=="2" start https://rockseeker.com/ & goto web_market
 if "%marchoice%"=="3" start https://stonegrouplabs.com/ & goto web_market
 if "%marchoice%"=="4" goto web
 goto web_market
-
 :web_video
 cls
 echo ======================================================
@@ -260,7 +236,6 @@ echo  7. Back
 echo.
 set "vidchoice="
 set /p vidchoice="Select resource (1-7): "
-
 if "%vidchoice%"=="1" start https://www.youtube.com/@Moregems & goto web_video
 if "%vidchoice%"=="2" start https://www.youtube.com/@Danhurd & goto web_video
 if "%vidchoice%"=="3" start https://www.youtube.com/@giastats & goto web_video
@@ -269,7 +244,6 @@ if "%vidchoice%"=="5" start https://www.youtube.com/@JustinKPrim & goto web_vide
 if "%vidchoice%"=="6" start https://www.youtube.com/@Gemstones_com & goto web_video
 if "%vidchoice%"=="7" goto web
 goto web_video
-
 :web_tools
 cls
 echo ======================================================
@@ -284,13 +258,11 @@ echo  4. Back
 echo.
 set "tchoice="
 set /p tchoice="Select resource (1-4): "
-
 if "%tchoice%"=="1" start https://www.gemologyonline.com/ & goto web_tools
 if "%tchoice%"=="2" start https://www.algtantwerp.org/ & goto web_tools
 if "%tchoice%"=="3" start https://www.gemsociety.org/ & goto web_tools
 if "%tchoice%"=="4" goto web
 goto web_tools
-
 :web_soft
 cls
 echo ======================================================
@@ -305,7 +277,6 @@ echo  4. Back
 echo.
 set "schoice="
 set /p schoice="Select resource (1-4): "
-
 if "%schoice%"=="1" start http://www.gemcad.com/ & goto web_soft
 if "%schoice%"=="2" start http://www.gemcad.com/gemray.html & goto web_soft
 if "%schoice%"=="3" start https://www.food4rhino.com/en/app/facet-hopper & goto web_soft
