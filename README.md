@@ -7,11 +7,11 @@ This program is free for everyone. It was created with a specific focus on the g
 
 To ensure maximum accessibility, this tool is:
 
-    Written in DOS/Batch: Requires zero installation. No Python, no Java, no complex environments. If you have a PC, it runs.
+-Written in DOS/Batch: Requires zero installation. No Python, no Java, no complex environments. If you have a PC, it runs.
 
-    Offline First: The entire mineral database is stored locally. Internet is only required if you choose to use the optional Web Resources.
+-Offline First: The entire mineral database is stored locally. Internet is only required if you choose to use the optional Web Resources.
 
-    Ultra-Lightweight: It takes up virtually no disk space and can run on even the oldest machines.
+-Ultra-Lightweight: It takes up virtually no disk space and can run on even the oldest machines.
 
 🚀 Features
 
