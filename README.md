@@ -37,10 +37,10 @@ matches only one mineral (e.g., Tanzanite), it opens the data sheet immediately.
 -Mineral Database: Currently includes 250 minerals, with plans for continuous expansion.
 
 -Integrated Web Dashboard: A categorized hub for Prospection (maps), Faceting (designs), </BR>
- Market Prices, and Technical Education.
+&nbsp; Market Prices, and Technical Education.
 
 -Technical Specifics: Each entry follows a rigorous template including chemical formulas, </BR>
- hardness, refractive index, and cutting suggestions.
+&nbsp; hardness, refractive index, and cutting suggestions.
 
 <BR>
 
