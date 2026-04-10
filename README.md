@@ -68,6 +68,14 @@ essential for identifying and working with the stone:
 
 -Geology: Primary Sources and known Phenomena or Treatments.
 
+<BR>
+
+<p>
+  <img src="https://raw.githubusercontent.com/JonnyBanana/Gemstone_Database_for_Lapidaries/refs/heads/main/img/mineral_example.png" width="600">
+</p>
+
+<BR>
+
 <h2>🗺️ Roadmap</h2>
 
 We are committed to growing this tool for the global community. Our future goals include:
