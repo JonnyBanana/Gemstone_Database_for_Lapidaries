@@ -1,7 +1,10 @@
 <h1>Gemstone Database for Lapidaries</h1>
 
 A lightweight, high-performance, and offline-first CLI tool designed specifically for lapidaries, gem cutters, and mineral enthusiasts worldwide.
-💎 Project Philosophy
+
+</BR>
+
+<b>💎 Project Philosophy</b>
 
 This program is free for everyone. It was created with a specific focus on the global lapidary community. Many talented cutters operate in Asian countries or developing regions where high-end hardware, stable internet, and modern software environments aren't always available.
 
