@@ -32,7 +32,7 @@ stable internet, and modern software environments aren't always available.
 <h2>🚀 Features</h2>
 
 -Smart Search: Features an "Auto-Open" function. If your search (e.g., "Tan") </BR>
-matches only one mineral (e.g., Tanzanite), it opens the data sheet immediately.
+&nbsp;matches only one mineral (e.g., Tanzanite), it opens the data sheet immediately.
 
 -Mineral Database: Currently includes 250 minerals, with plans for continuous expansion.
 
