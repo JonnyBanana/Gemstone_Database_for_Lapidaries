@@ -6,7 +6,9 @@ A lightweight, high-performance, and offline-first CLI tool designed specificall
 
 <b>💎 Project Philosophy</b>
 
-This program is free for everyone. It was created with a specific focus on the global lapidary community. Many talented cutters operate in Asian countries or developing regions where high-end hardware, stable internet, and modern software environments aren't always available.
+This program is free for everyone. It was created with a specific focus on the global lapidary community. 
+Many talented cutters operate in Asian countries or developing regions where high-end hardware, stable internet, 
+and modern software environments aren't always available.
 
 <b>To ensure maximum accessibility, this tool is:</b>
 
