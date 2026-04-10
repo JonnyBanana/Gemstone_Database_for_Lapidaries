@@ -1,0 +1,29 @@
+Name: Aegirine
+Formula: NaFeSi2O6
+Crystal System: Monoclinic
+
+Color: Dark green to black
+Hardness: 5-6
+Specific Gravity: 3.4-3.5
+
+Refractive Index: 1.74-1.78
+Birefringence: 0.030
+Optical: Anisotropic
+Refraction: Birefringent
+
+Pleochroism: Strong
+
+Cleavage: Good
+Fracture: Uneven
+
+Primary Sources: Norway, Russia, Canada
+
+Treatments: None known
+
+Cuts: Rare / Faceted (collector stones)
+
+Faceted Cuts:
+Emerald cut
+Step cut
+
+Phenomena: None
