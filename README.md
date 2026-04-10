@@ -1,4 +1,4 @@
-Gemstone Database for Lapidaries
+<h1>Gemstone Database for Lapidaries</h1>
 
 A lightweight, high-performance, and offline-first CLI tool designed specifically for lapidaries, gem cutters, and mineral enthusiasts worldwide.
 💎 Project Philosophy
