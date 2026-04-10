@@ -1,6 +1,7 @@
 <h1>Gemstone Database for Lapidaries</h1>
 
-A lightweight, high-performance, and offline-first CLI tool designed specifically for lapidaries, gem cutters, and mineral enthusiasts worldwide.
+A lightweight, high-performance, and offline-first CLI tool designed specifically for lapidaries, gem cutters, </BR>
+and mineral enthusiasts worldwide.
 
 </BR>
 
@@ -19,10 +20,10 @@ stable internet, and modern software environments aren't always available.
 <b>To ensure maximum accessibility, this tool is:</b>
 
 -Written in DOS/Batch: Requires zero installation. No Python, no Java,  </BR>
-no complex environments. If you have a PC, it runs.
+ no complex environments. If you have a PC, it runs.
 
 -Offline First: The entire mineral database is stored locally. </BR>
-Internet is only required if you choose to use the optional Web Resources.
+ Internet is only required if you choose to use the optional Web Resources.
 
 -Ultra-Lightweight: It takes up virtually no disk space and can run on even the oldest machines.
 
@@ -36,10 +37,10 @@ matches only one mineral (e.g., Tanzanite), it opens the data sheet immediately.
 -Mineral Database: Currently includes 250 minerals, with plans for continuous expansion.
 
 -Integrated Web Dashboard: A categorized hub for Prospection (maps), Faceting (designs), </BR>
-Market Prices, and Technical Education.
+ Market Prices, and Technical Education.
 
 -Technical Specifics: Each entry follows a rigorous template including chemical formulas, </BR>
-hardness, refractive index, and cutting suggestions.
+ hardness, refractive index, and cutting suggestions.
 
 <BR>
 
@@ -77,6 +78,8 @@ You can download the version 1.0 here:
 https://
 
  Note: The .exe version is a standalone file with the database already embedded.
+
+ </BR>
 
 <h2>🛠️ Setup</h2>
 
