@@ -83,9 +83,9 @@ You can download the version 1.0 here:
 
 <h2>🛠️ Setup</h2>
 
--For .EXE users: Simply download and run the executable.
+For .EXE users: Simply download and run the executable.
 
--For .BAT (Source) users:
+For .BAT (Source) users:
 
  1. Download the repository.
 
