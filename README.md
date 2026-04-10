@@ -85,7 +85,7 @@ expanded Web Dashboard (Instrumentation & Software), and improved input normaliz
 
 <h2>🤝 How to Contribute</h2>
 
-We welcome contributions from the community!
+<b>We welcome contributions from the community!</b>
 
 Option 1 (Technical): Fork the repository and submit a Pull Request. Use the provided template.txt to ensure your new entries match our format.
 
