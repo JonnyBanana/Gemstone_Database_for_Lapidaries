@@ -42,7 +42,7 @@ hardness, refractive index, and cutting suggestions.
 <BR>
 
 <p>
-  <img src="https://raw.githubusercontent.com/JonnyBanana/Gemstone_Database_for_Lapidaries/refs/heads/main/img/gemstone-serach.png" width="600">
+  <img src="https://raw.githubusercontent.com/JonnyBanana/Gemstone_Database_for_Lapidaries/refs/heads/main/img/gemstone-search.png" width="600">
 </p>
 
 <BR>
