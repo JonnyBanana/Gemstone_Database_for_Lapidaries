@@ -6,19 +6,21 @@ A lightweight, high-performance, and offline-first CLI tool designed specificall
 
 <h2>💎 Project Philosophy</h2>
 
-This program is free for everyone. It was created with a specific focus on the global lapidary community. 
-Many talented cutters operate in Asian countries or developing regions where high-end hardware, stable internet, 
+This program is free for everyone. It was created with a specific focus on the global lapidary community. </BR>
+Many talented cutters operate in Asian countries or developing regions where high-end hardware, stable internet, </BR>
 and modern software environments aren't always available.
 
 <b>To ensure maximum accessibility, this tool is:</b>
 
--Written in DOS/Batch: Requires zero installation. No Python, no Java, no complex environments. If you have a PC, it runs.
+-Written in DOS/Batch: Requires zero installation. No Python, no Java, no complex environments. </BR>
+If you have a PC, it runs.
 
--Offline First: The entire mineral database is stored locally. Internet is only required if you choose to use the optional Web Resources.
+-Offline First: The entire mineral database is stored locally. </BR>
+Internet is only required if you choose to use the optional Web Resources.
 
 -Ultra-Lightweight: It takes up virtually no disk space and can run on even the oldest machines.
 
-<b>🚀 Features</b>
+<h2>🚀 Features</h2>h2>
 
 -Smart Search: Features an "Auto-Open" function. If your search (e.g., "Tan") matches only one mineral (e.g., Tanzanite), it opens the data sheet immediately.
 
@@ -28,7 +30,7 @@ and modern software environments aren't always available.
 
 -Technical Specifics: Each entry follows a rigorous template including chemical formulas, hardness, refractive index, and cutting suggestions.
 
-<b>📥 Downloads</b>
+<h2>📥 Downloads</h2>
 
 You can download the version 1.0 here:
 
@@ -36,7 +38,7 @@ You can download the version 1.0 here:
 
         Note: The .exe version is a standalone file with the database already embedded.
 
-<b>📂 Mineral Data Sheets</b>
+<h2>📂 Mineral Data Sheets</h2>
 
 Each mineral in the database provides detailed technical specifications essential for identifying and working with the stone:
 
@@ -48,8 +50,7 @@ Each mineral in the database provides detailed technical specifications essentia
 
     Geology: Primary Sources and known Phenomena or Treatments.
 
-🔗  | 📝  | 📜 
-🗺️ Roadmap
+<h2>🗺️ Roadmap</h2>
 
 We are committed to growing this tool for the global community. Our future goals include:
 
@@ -63,11 +64,11 @@ We are committed to growing this tool for the global community. Our future goals
 
     [ ] ASCII visualization of Crystal Symmetry systems.
 
-📜 Changelog
+<h2>📜 Changelog</h2>
 
     v1.0 (Current): Launch with a database list of 250 minerals. Includes Smart Search (Auto-Open logic), expanded Web Dashboard (Instrumentation & Software), and improved input normalization for spaces and hyphens.
 
-🛠️ Setup
+<h2>🛠️ Setup</h2>
 
     For .EXE users: Simply download and run the executable.
 
@@ -79,7 +80,7 @@ We are committed to growing this tool for the global community. Our future goals
 
         Run GEMSTONE_DATABASE.bat.
 
-🤝 How to Contribute
+<h2>🤝 How to Contribute</h2>
 
 We welcome contributions from the community!
 
