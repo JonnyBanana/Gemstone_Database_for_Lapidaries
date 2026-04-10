@@ -20,10 +20,10 @@ stable internet, and modern software environments aren't always available.
 <b>To ensure maximum accessibility, this tool is:</b>
 
 -Written in DOS/Batch: Requires zero installation. No Python, no Java,  </BR>
- no complex environments. If you have a PC, it runs.
+ &nbsp;no complex environments. If you have a PC, it runs.
 
 -Offline First: The entire mineral database is stored locally. </BR>
- Internet is only required if you choose to use the optional Web Resources.
+&nbsp; Internet is only required if you choose to use the optional Web Resources.
 
 -Ultra-Lightweight: It takes up virtually no disk space and can run on even the oldest machines.
 
