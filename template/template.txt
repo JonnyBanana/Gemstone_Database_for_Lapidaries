@@ -1,0 +1,27 @@
+Name:
+Formula:
+Crystal System:
+
+Color:
+Hardness:
+Specific Gravity:
+
+Refractive Index:
+Birefringence:
+Optical:
+Refraction:
+
+Pleochroism:
+
+Cleavage:
+Fracture:
+
+Primary Sources:
+
+Treatments:
+
+Cuts:
+
+Faceted Cuts:
+
+Phenomena:
