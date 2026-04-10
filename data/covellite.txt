@@ -1,0 +1,28 @@
+Name: Covellite
+Formula: CuS
+Crystal System: Hexagonal
+
+Color: Indigo blue
+Hardness: 1.5-2
+Specific Gravity: 4.6
+
+Refractive Index: Opaque
+Birefringence: None
+Optical: Opaque
+Refraction: None
+
+Pleochroism: None
+
+Cleavage: Perfect
+Fracture: Uneven
+
+Primary Sources: USA, Chile
+
+Treatments: None
+
+Cuts: Cabochon / Collector
+
+Faceted Cuts:
+None
+
+Phenomena: None

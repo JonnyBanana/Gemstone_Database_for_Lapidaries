@@ -1,0 +1,28 @@
+Name: Dioptase
+Formula: CuSiO3·H2O
+Crystal System: Trigonal
+
+Color: Emerald green
+Hardness: 5
+Specific Gravity: 3.3
+
+Refractive Index: 1.64-1.68
+Birefringence: 0.020
+Optical: Anisotropic
+Refraction: Birefringent
+
+Pleochroism: Weak
+
+Cleavage: Perfect
+Fracture: Conchoidal
+
+Primary Sources: Congo, Namibia
+
+Treatments: None
+
+Cuts: Rare / Collector
+
+Faceted Cuts:
+Step cut
+
+Phenomena: None

@@ -1,0 +1,28 @@
+Name: Euxenite
+Formula: Complex oxide
+Crystal System: Orthorhombic
+
+Color: Black
+Hardness: 5-6
+Specific Gravity: 4.5
+
+Refractive Index: Opaque
+Birefringence: None
+Optical: Opaque
+Refraction: None
+
+Pleochroism: None
+
+Cleavage: Poor
+Fracture: Uneven
+
+Primary Sources: Norway, USA
+
+Treatments: None
+
+Cuts: Collector
+
+Faceted Cuts:
+None
+
+Phenomena: None

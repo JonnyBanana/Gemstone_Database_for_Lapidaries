@@ -1,0 +1,29 @@
+Name: Allanite
+Formula: Complex silicate
+Crystal System: Monoclinic
+
+Color: Brown-black
+Hardness: 5.5-6
+Specific Gravity: 3.5
+
+Refractive Index: 1.70-1.80
+Birefringence: 0.020
+Optical: Anisotropic
+Refraction: Birefringent
+
+Pleochroism: Weak
+
+Cleavage: Poor
+Fracture: Uneven
+
+Primary Sources: Norway, USA
+
+Treatments: None
+
+Cuts: Rare / Collector
+
+Faceted Cuts:
+Step cut
+Emerald cut
+
+Phenomena: None

@@ -1,0 +1,30 @@
+Name: Aquamarine
+Formula: Be3Al2Si6O18
+Crystal System: Hexagonal
+
+Color: Blue to blue-green
+Hardness: 7.5-8
+Specific Gravity: 2.68-2.74
+
+Refractive Index: 1.57-1.59
+Birefringence: 0.005
+Optical: Anisotropic
+Refraction: Birefringent
+
+Pleochroism: Weak
+
+Cleavage: Poor
+Fracture: Uneven
+
+Primary Sources: Brazil, Pakistan, Nigeria
+
+Treatments: Heat common
+
+Cuts: Faceted
+
+Faceted Cuts:
+Emerald cut
+Oval
+Cushion
+
+Phenomena: None

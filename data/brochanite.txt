@@ -1,0 +1,28 @@
+Name: Brochantite
+Formula: Cu4SO4(OH)6
+Crystal System: Monoclinic
+
+Color: Green
+Hardness: 3.5-4
+Specific Gravity: 3.9
+
+Refractive Index: 1.72-1.80
+Birefringence: 0.080
+Optical: Anisotropic
+Refraction: Birefringent
+
+Pleochroism: Strong
+
+Cleavage: Good
+Fracture: Uneven
+
+Primary Sources: Chile, USA
+
+Treatments: None
+
+Cuts: Rare / Collector
+
+Faceted Cuts:
+Step cut
+
+Phenomena: None

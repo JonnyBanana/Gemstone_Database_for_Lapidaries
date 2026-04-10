@@ -1,0 +1,62 @@
+   _____ ______ __  __  _____ _______ ____  _   _ ______ 
+  / ____|  ____|  \/  |/ ____|__   __/ __ \| \ | |  ____|
+ | |  __| |__  | \  / | (___    | | | |  | |  \| | |__   
+ | | |_ |  __| | |\/| |\___ \   | | | |  | | . ` |  __|  
+ | |__| | |____| |  | |____) |  | | | |__| | |\  | |____ 
+  \_____|______|_|__|_|_____/___|_|  \____/|_|_\_|______|
+ |  __ \   /\|__   __|/\   |  _ \   /\    / ____|  ____| 
+ | |  | | /  \  | |  /  \  | |_) | /  \  | (___ | |__    
+ | |  | |/ /\ \ | | / /\ \ |  _ < / /\ \  \___ \|  __|   
+ | |__| / ____ \| |/ ____ \| |_) / ____ \ ____) | |____  
+ |_____/_/    \_\_/_/    \_\____/_/    \_\_____/|______| 
+
+                                                                                                                  
+==========================================
+              CREDITS
+==========================================
+
+GEMSTONE DATABASE
+
+Created by:
+Jonny Banana
+for I Sassi dei Salassi
+
+------------------------------------------
+
+This program is OPEN SOURCE.
+
+Souce Code & Exe Here:
+
+https://github.com/JonnyBanana/Gemstone_Database_for_Lapidaries
+
+License:
+Free to use, modify and share.
+NOT allowed for commercial resale.
+
+This software is FREE for everyone.
+
+For commercial requests:
+isassideisalassi@gmail.com
+
+------------------------------------------
+
+Official links:
+
+GitHub:
+https://github.com/JonnyBanana
+
+Behance:
+https://www.behance.net/isassideisalassi
+
+------------------------------------------
+
+This program was created for gem cutters,
+lapidaries and gemology enthusiasts.
+
+Built to support the passion for stones,
+cutting, identification and knowledge.
+
+Whether you cut, study or just admire,
+this tool is made for you.
+
+==========================================

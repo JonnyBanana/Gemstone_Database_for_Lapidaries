@@ -1,0 +1,29 @@
+Name: Cassiterite
+Formula: SnO2
+Crystal System: Tetragonal
+
+Color: Brown, black
+Hardness: 6-7
+Specific Gravity: 6.8-7.1
+
+Refractive Index: 1.99-2.10
+Birefringence: 0.100
+Optical: Anisotropic
+Refraction: Birefringent
+
+Pleochroism: Weak
+
+Cleavage: Poor
+Fracture: Conchoidal
+
+Primary Sources: Bolivia, China
+
+Treatments: None
+
+Cuts: Faceted
+
+Faceted Cuts:
+Brilliant cut
+Oval
+
+Phenomena: None

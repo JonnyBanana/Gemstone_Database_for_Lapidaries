@@ -1,0 +1,29 @@
+Name: Euclase
+Formula: BeAlSiO4(OH)
+Crystal System: Monoclinic
+
+Color: Blue, green
+Hardness: 7.5
+Specific Gravity: 3.1
+
+Refractive Index: 1.65-1.67
+Birefringence: 0.020
+Optical: Anisotropic
+Refraction: Birefringent
+
+Pleochroism: Strong
+
+Cleavage: Perfect
+Fracture: Conchoidal
+
+Primary Sources: Brazil, Colombia
+
+Treatments: None
+
+Cuts: Faceted
+
+Faceted Cuts:
+Emerald cut
+Oval
+
+Phenomena: None

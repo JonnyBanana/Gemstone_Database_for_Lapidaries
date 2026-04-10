@@ -1,0 +1,28 @@
+Name: Celestite
+Formula: SrSO4
+Crystal System: Orthorhombic
+
+Color: Blue
+Hardness: 3-3.5
+Specific Gravity: 3.9
+
+Refractive Index: 1.62-1.63
+Birefringence: 0.010
+Optical: Anisotropic
+Refraction: Birefringent
+
+Pleochroism: None
+
+Cleavage: Perfect
+Fracture: Uneven
+
+Primary Sources: Madagascar, USA
+
+Treatments: None
+
+Cuts: Rare / Collector
+
+Faceted Cuts:
+Step cut
+
+Phenomena: None

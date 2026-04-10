@@ -1,0 +1,28 @@
+Name: Blue Quartz
+Formula: SiO2
+Crystal System: Trigonal
+
+Color: Blue
+Hardness: 7
+Specific Gravity: 2.65
+
+Refractive Index: 1.544-1.553
+Birefringence: 0.009
+Optical: Anisotropic
+Refraction: Birefringent
+
+Pleochroism: Weak
+
+Cleavage: None
+Fracture: Conchoidal
+
+Primary Sources: Brazil
+
+Treatments: None
+
+Cuts: Cabochon
+
+Faceted Cuts:
+None
+
+Phenomena: Inclusion color

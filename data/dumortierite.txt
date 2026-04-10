@@ -1,0 +1,28 @@
+Name: Dumortierite
+Formula: Al7BO3(SiO4)3O3
+Crystal System: Orthorhombic
+
+Color: Blue
+Hardness: 7-8
+Specific Gravity: 3.3
+
+Refractive Index: 1.68-1.70
+Birefringence: 0.010
+Optical: Anisotropic
+Refraction: Birefringent
+
+Pleochroism: Weak
+
+Cleavage: Poor
+Fracture: Uneven
+
+Primary Sources: Brazil, Madagascar
+
+Treatments: None
+
+Cuts: Cabochon
+
+Faceted Cuts:
+None
+
+Phenomena: None

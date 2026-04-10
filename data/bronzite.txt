@@ -1,0 +1,28 @@
+Name: Bronzite
+Formula: (Mg,Fe)2Si2O6
+Crystal System: Orthorhombic
+
+Color: Brown with metallic sheen
+Hardness: 5-6
+Specific Gravity: 3.3
+
+Refractive Index: 1.66-1.69
+Birefringence: 0.020
+Optical: Anisotropic
+Refraction: Birefringent
+
+Pleochroism: Weak
+
+Cleavage: Good
+Fracture: Uneven
+
+Primary Sources: Austria, USA
+
+Treatments: None
+
+Cuts: Cabochon
+
+Faceted Cuts:
+None
+
+Phenomena: None

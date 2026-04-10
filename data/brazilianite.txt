@@ -1,0 +1,29 @@
+Name: Brazilianite
+Formula: NaAl3(PO4)2(OH)4
+Crystal System: Monoclinic
+
+Color: Yellow-green
+Hardness: 5.5
+Specific Gravity: 3.0
+
+Refractive Index: 1.60-1.62
+Birefringence: 0.012
+Optical: Anisotropic
+Refraction: Birefringent
+
+Pleochroism: Weak
+
+Cleavage: Good
+Fracture: Uneven
+
+Primary Sources: Brazil
+
+Treatments: None
+
+Cuts: Faceted
+
+Faceted Cuts:
+Oval
+Cushion
+
+Phenomena: None

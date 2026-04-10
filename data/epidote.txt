@@ -1,0 +1,28 @@
+Name: Epidote
+Formula: Ca2(Al,Fe)3(SiO4)(Si2O7)O(OH)
+Crystal System: Monoclinic
+
+Color: Green
+Hardness: 6-7
+Specific Gravity: 3.4
+
+Refractive Index: 1.72-1.77
+Birefringence: 0.040
+Optical: Anisotropic
+Refraction: Birefringent
+
+Pleochroism: Strong
+
+Cleavage: Good
+Fracture: Uneven
+
+Primary Sources: Austria, Pakistan
+
+Treatments: None
+
+Cuts: Rare / Collector
+
+Faceted Cuts:
+Step cut
+
+Phenomena: None

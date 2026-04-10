@@ -1,0 +1,28 @@
+Name: Glaucophane
+Formula: Na2(Mg3Al2)Si8O22(OH)2
+Crystal System: Monoclinic
+
+Color: Blue
+Hardness: 6-6.5
+Specific Gravity: 3.0-3.2
+
+Refractive Index: 1.61-1.67
+Birefringence: 0.020
+Optical: Anisotropic
+Refraction: Birefringent
+
+Pleochroism: Strong
+
+Cleavage: Good
+Fracture: Uneven
+
+Primary Sources: Greece, USA
+
+Treatments: None
+
+Cuts: Rare / Collector
+
+Faceted Cuts:
+Step cut
+
+Phenomena: None

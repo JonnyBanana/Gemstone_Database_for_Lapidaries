@@ -1,0 +1,28 @@
+Name: Gorceixite
+Formula: BaAl3(PO4)2(OH)5·H2O
+Crystal System: Trigonal
+
+Color: Yellow, brown
+Hardness: 4.5-5
+Specific Gravity: 3.0-3.2
+
+Refractive Index: 1.60-1.62
+Birefringence: 0.010
+Optical: Anisotropic
+Refraction: Birefringent
+
+Pleochroism: Weak
+
+Cleavage: Poor
+Fracture: Uneven
+
+Primary Sources: Brazil
+
+Treatments: None
+
+Cuts: Rare / Collector
+
+Faceted Cuts:
+None
+
+Phenomena: None

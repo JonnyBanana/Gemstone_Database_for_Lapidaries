@@ -1,0 +1,30 @@
+Name: Andradite
+Formula: Ca3Fe2(SiO4)3
+Crystal System: Cubic
+
+Color: Green, brown, yellow
+Hardness: 6.5-7
+Specific Gravity: 3.7-3.9
+
+Refractive Index: 1.88-1.94
+Birefringence: None
+Optical: Isotropic
+Refraction: Single (Monorefringent)
+
+Pleochroism: None
+
+Cleavage: None
+Fracture: Conchoidal
+
+Primary Sources: Namibia, Russia
+
+Treatments: None
+
+Cuts: Faceted / Cabochon
+
+Faceted Cuts:
+Round brilliant
+Oval
+Cushion
+
+Phenomena: None

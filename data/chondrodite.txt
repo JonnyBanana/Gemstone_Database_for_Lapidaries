@@ -1,0 +1,29 @@
+Name: Chondrodite
+Formula: Mg5(SiO4)2(F,OH)2
+Crystal System: Monoclinic
+
+Color: Yellow, brown
+Hardness: 6-6.5
+Specific Gravity: 3.1
+
+Refractive Index: 1.59-1.64
+Birefringence: 0.030
+Optical: Anisotropic
+Refraction: Birefringent
+
+Pleochroism: Moderate
+
+Cleavage: Poor
+Fracture: Uneven
+
+Primary Sources: Italy, Sri Lanka
+
+Treatments: None
+
+Cuts: Faceted
+
+Faceted Cuts:
+Oval
+Cushion
+
+Phenomena: None

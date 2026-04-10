@@ -1,0 +1,28 @@
+Name: Chromite
+Formula: FeCr2O4
+Crystal System: Cubic
+
+Color: Black
+Hardness: 5.5
+Specific Gravity: 4.5-4.8
+
+Refractive Index: 2.08
+Birefringence: None
+Optical: Isotropic
+Refraction: Single (Monorefringent)
+
+Pleochroism: None
+
+Cleavage: Poor
+Fracture: Uneven
+
+Primary Sources: South Africa, India
+
+Treatments: None
+
+Cuts: Rare / Collector
+
+Faceted Cuts:
+None
+
+Phenomena: None

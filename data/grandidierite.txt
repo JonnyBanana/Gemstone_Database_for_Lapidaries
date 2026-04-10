@@ -1,0 +1,29 @@
+Name: Grandidierite
+Formula: (Mg,Fe)Al3(BO3)(SiO4)O2
+Crystal System: Orthorhombic
+
+Color: Blue-green
+Hardness: 7-7.5
+Specific Gravity: 2.85-3.0
+
+Refractive Index: 1.59-1.63
+Birefringence: 0.040
+Optical: Anisotropic
+Refraction: Birefringent
+
+Pleochroism: Strong
+
+Cleavage: Poor
+Fracture: Conchoidal
+
+Primary Sources: Madagascar
+
+Treatments: None
+
+Cuts: Faceted
+
+Faceted Cuts:
+Oval
+Cushion
+
+Phenomena: None

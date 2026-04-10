@@ -1,0 +1,29 @@
+Name: Augite
+Formula: (Ca,Na)(Mg,Fe,Al,Ti)(Si,Al)2O6
+Crystal System: Monoclinic
+
+Color: Dark green to black
+Hardness: 5.5-6
+Specific Gravity: 3.2-3.4
+
+Refractive Index: 1.66-1.72
+Birefringence: 0.020
+Optical: Anisotropic
+Refraction: Birefringent
+
+Pleochroism: Weak
+
+Cleavage: Good
+Fracture: Uneven
+
+Primary Sources: Italy, USA, Germany
+
+Treatments: None
+
+Cuts: Rare / Collector
+
+Faceted Cuts:
+Step cut
+Emerald cut
+
+Phenomena: None

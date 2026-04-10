@@ -1,0 +1,28 @@
+Name: Diadochite
+Formula: FePO4·2H2O
+Crystal System: Amorphous
+
+Color: Brown, yellow
+Hardness: 2-3
+Specific Gravity: 2.0
+
+Refractive Index: Variable
+Birefringence: None
+Optical: Variable
+Refraction: Variable
+
+Pleochroism: None
+
+Cleavage: None
+Fracture: Earthy
+
+Primary Sources: Worldwide
+
+Treatments: None
+
+Cuts: None
+
+Faceted Cuts:
+None
+
+Phenomena: None

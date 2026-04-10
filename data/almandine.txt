@@ -1,0 +1,31 @@
+Name: Almandine
+Formula: Fe3Al2(SiO4)3
+Crystal System: Cubic
+
+Color: Red
+Hardness: 7-7.5
+Specific Gravity: 4.0
+
+Refractive Index: 1.79-1.83
+Birefringence: None
+Optical: Isotropic
+Refraction: Single (Monorefringent)
+
+Pleochroism: None
+
+Cleavage: None
+Fracture: Conchoidal
+
+Primary Sources: India, Sri Lanka
+
+Treatments: None
+
+Cuts: Faceted / Cabochon
+
+Faceted Cuts:
+Round brilliant
+Oval
+Cushion
+Mixed cut
+
+Phenomena: None

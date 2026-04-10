@@ -1,0 +1,28 @@
+Name: Amethyst Scepter
+Formula: SiO2
+Crystal System: Trigonal
+
+Color: Purple (with colorless or smoky base)
+Hardness: 7
+Specific Gravity: 2.65
+
+Refractive Index: 1.544-1.553
+Birefringence: 0.009
+Optical: Anisotropic
+Refraction: Birefringent
+
+Pleochroism: Weak
+
+Cleavage: None
+Fracture: Conchoidal
+
+Primary Sources: Brazil, Madagascar
+
+Treatments: None
+
+Cuts: Specimen / Cabochon
+
+Faceted Cuts:
+None
+
+Phenomena: Scepter growth structure

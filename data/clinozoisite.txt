@@ -1,0 +1,28 @@
+Name: Clinozoisite
+Formula: Ca2Al3(SiO4)(Si2O7)O(OH)
+Crystal System: Monoclinic
+
+Color: Green, gray
+Hardness: 6-7
+Specific Gravity: 3.2
+
+Refractive Index: 1.70-1.73
+Birefringence: 0.010
+Optical: Anisotropic
+Refraction: Birefringent
+
+Pleochroism: Weak
+
+Cleavage: Good
+Fracture: Uneven
+
+Primary Sources: Austria, USA
+
+Treatments: None
+
+Cuts: Rare / Collector
+
+Faceted Cuts:
+Step cut
+
+Phenomena: None

@@ -1,0 +1,30 @@
+Name: Grossular
+Formula: Ca3Al2(SiO4)3
+Crystal System: Cubic
+
+Color: Green, yellow, brown
+Hardness: 6.5-7.5
+Specific Gravity: 3.6
+
+Refractive Index: 1.72-1.75
+Birefringence: None
+Optical: Isotropic
+Refraction: Single (Monorefringent)
+
+Pleochroism: None
+
+Cleavage: None
+Fracture: Conchoidal
+
+Primary Sources: Kenya, Tanzania
+
+Treatments: None
+
+Cuts: Faceted / Cabochon
+
+Faceted Cuts:
+Round brilliant
+Oval
+Cushion
+
+Phenomena: None

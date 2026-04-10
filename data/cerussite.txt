@@ -1,0 +1,29 @@
+Name: Cerussite
+Formula: PbCO3
+Crystal System: Orthorhombic
+
+Color: Colorless
+Hardness: 3-3.5
+Specific Gravity: 6.5
+
+Refractive Index: 1.80-2.08
+Birefringence: 0.280
+Optical: Anisotropic
+Refraction: Birefringent
+
+Pleochroism: Weak
+
+Cleavage: Good
+Fracture: Conchoidal
+
+Primary Sources: Namibia, Morocco
+
+Treatments: None
+
+Cuts: Faceted
+
+Faceted Cuts:
+Brilliant cut
+Oval
+
+Phenomena: None

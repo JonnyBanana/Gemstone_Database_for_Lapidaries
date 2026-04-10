@@ -1,0 +1,28 @@
+Name: Chrysocolla
+Formula: Cu2-xAlx(H2-xSi2O5)(OH)4·nH2O
+Crystal System: Amorphous
+
+Color: Blue-green
+Hardness: 2-4
+Specific Gravity: 2.0-2.4
+
+Refractive Index: 1.46-1.57
+Birefringence: None
+Optical: Variable
+Refraction: Variable
+
+Pleochroism: None
+
+Cleavage: None
+Fracture: Uneven
+
+Primary Sources: Peru, Chile
+
+Treatments: Stabilization common
+
+Cuts: Cabochon
+
+Faceted Cuts:
+None
+
+Phenomena: None

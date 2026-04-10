@@ -1,0 +1,29 @@
+Name: Dravite
+Formula: NaMg3Al6(BO3)3Si6O18(OH)4
+Crystal System: Trigonal
+
+Color: Brown
+Hardness: 7-7.5
+Specific Gravity: 3.0
+
+Refractive Index: 1.61-1.64
+Birefringence: 0.020
+Optical: Anisotropic
+Refraction: Birefringent
+
+Pleochroism: Strong
+
+Cleavage: Poor
+Fracture: Uneven
+
+Primary Sources: Austria, Australia
+
+Treatments: None
+
+Cuts: Faceted
+
+Faceted Cuts:
+Oval
+Cushion
+
+Phenomena: None

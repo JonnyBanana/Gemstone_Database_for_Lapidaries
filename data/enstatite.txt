@@ -1,0 +1,29 @@
+Name: Enstatite
+Formula: MgSiO3
+Crystal System: Orthorhombic
+
+Color: Brown, green
+Hardness: 5-6
+Specific Gravity: 3.2
+
+Refractive Index: 1.65-1.67
+Birefringence: 0.010
+Optical: Anisotropic
+Refraction: Birefringent
+
+Pleochroism: Weak
+
+Cleavage: Good
+Fracture: Uneven
+
+Primary Sources: Sri Lanka, India
+
+Treatments: None
+
+Cuts: Faceted
+
+Faceted Cuts:
+Oval
+Cushion
+
+Phenomena: None

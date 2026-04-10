@@ -1,0 +1,30 @@
+Name: Amethyst
+Formula: SiO2
+Crystal System: Trigonal
+
+Color: Purple
+Hardness: 7
+Specific Gravity: 2.65
+
+Refractive Index: 1.54-1.55
+Birefringence: 0.009
+Optical: Anisotropic
+Refraction: Birefringent
+
+Pleochroism: Weak
+
+Cleavage: None
+Fracture: Conchoidal
+
+Primary Sources: Brazil, Uruguay
+
+Treatments: Heat common
+
+Cuts: Faceted / Cabochon
+
+Faceted Cuts:
+Oval
+Cushion
+Round brilliant
+
+Phenomena: None

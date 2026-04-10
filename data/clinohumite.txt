@@ -1,0 +1,29 @@
+Name: Clinohumite
+Formula: (Mg,Fe)9(SiO4)4(F,OH)2
+Crystal System: Monoclinic
+
+Color: Orange, brown
+Hardness: 6
+Specific Gravity: 3.2
+
+Refractive Index: 1.63-1.67
+Birefringence: 0.020
+Optical: Anisotropic
+Refraction: Birefringent
+
+Pleochroism: Moderate
+
+Cleavage: Poor
+Fracture: Uneven
+
+Primary Sources: Tajikistan, Tanzania
+
+Treatments: None
+
+Cuts: Faceted
+
+Faceted Cuts:
+Oval
+Cushion
+
+Phenomena: None

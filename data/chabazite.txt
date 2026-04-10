@@ -1,0 +1,28 @@
+Name: Chabazite
+Formula: CaAl2Si4O12·6H2O
+Crystal System: Trigonal
+
+Color: Colorless, pink
+Hardness: 4-5
+Specific Gravity: 2.0
+
+Refractive Index: 1.48-1.50
+Birefringence: 0.004
+Optical: Anisotropic
+Refraction: Birefringent
+
+Pleochroism: None
+
+Cleavage: Poor
+Fracture: Uneven
+
+Primary Sources: Iceland, Italy
+
+Treatments: None
+
+Cuts: Rare / Collector
+
+Faceted Cuts:
+None
+
+Phenomena: None

@@ -1,0 +1,30 @@
+Name: Andesine
+Formula: NaCaAlSi3O8
+Crystal System: Triclinic
+
+Color: Red, orange-red
+Hardness: 6-6.5
+Specific Gravity: 2.66-2.68
+
+Refractive Index: 1.55-1.57
+Birefringence: 0.009
+Optical: Anisotropic
+Refraction: Birefringent
+
+Pleochroism: Weak
+
+Cleavage: Perfect
+Fracture: Uneven
+
+Primary Sources: Congo, Tibet
+
+Treatments: Possible (diffusion/heat reported)
+
+Cuts: Faceted / Cabochon
+
+Faceted Cuts:
+Oval
+Cushion
+Step cut
+
+Phenomena: None

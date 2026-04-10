@@ -1,0 +1,28 @@
+Name: Amazonite
+Formula: KAlSi3O8
+Crystal System: Triclinic
+
+Color: Green-blue
+Hardness: 6-6.5
+Specific Gravity: 2.6
+
+Refractive Index: 1.52-1.53
+Birefringence: 0.008
+Optical: Anisotropic
+Refraction: Birefringent
+
+Pleochroism: Weak
+
+Cleavage: Perfect
+Fracture: Uneven
+
+Primary Sources: Russia, USA
+
+Treatments: None
+
+Cuts: Cabochon
+
+Faceted Cuts:
+None
+
+Phenomena: None

@@ -1,0 +1,30 @@
+Name: Danburite
+Formula: CaB2Si2O8
+Crystal System: Orthorhombic
+
+Color: Colorless, pink
+Hardness: 7-7.5
+Specific Gravity: 3.0
+
+Refractive Index: 1.63-1.64
+Birefringence: 0.006
+Optical: Anisotropic
+Refraction: Birefringent
+
+Pleochroism: Weak
+
+Cleavage: Poor
+Fracture: Conchoidal
+
+Primary Sources: Mexico, Myanmar
+
+Treatments: None
+
+Cuts: Faceted
+
+Faceted Cuts:
+Emerald cut
+Oval
+Cushion
+
+Phenomena: None

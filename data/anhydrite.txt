@@ -1,0 +1,28 @@
+Name: Anhydrite
+Formula: CaSO4
+Crystal System: Orthorhombic
+
+Color: White, blue, gray
+Hardness: 3-3.5
+Specific Gravity: 2.9-3.0
+
+Refractive Index: 1.57-1.61
+Birefringence: 0.040
+Optical: Anisotropic
+Refraction: Birefringent
+
+Pleochroism: None
+
+Cleavage: Perfect
+Fracture: Uneven
+
+Primary Sources: Mexico, Peru
+
+Treatments: None
+
+Cuts: Rare / Collector
+
+Faceted Cuts:
+Step cut
+
+Phenomena: None

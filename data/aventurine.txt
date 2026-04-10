@@ -1,0 +1,28 @@
+Name: Aventurine
+Formula: SiO2
+Crystal System: Trigonal
+
+Color: Green
+Hardness: 6.5-7
+Specific Gravity: 2.6
+
+Refractive Index: 1.54
+Birefringence: None
+Optical: Aggregate
+Refraction: None
+
+Pleochroism: None
+
+Cleavage: None
+Fracture: Uneven
+
+Primary Sources: India
+
+Treatments: None
+
+Cuts: Cabochon
+
+Faceted Cuts:
+None
+
+Phenomena: Aventurescence

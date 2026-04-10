@@ -1,0 +1,31 @@
+Name: Alexandrite
+Formula: BeAl2O4
+Crystal System: Orthorhombic
+
+Color: Green to red (color change)
+Hardness: 8.5
+Specific Gravity: 3.7
+
+Refractive Index: 1.74-1.76
+Birefringence: 0.009
+Optical: Anisotropic
+Refraction: Birefringent
+
+Pleochroism: Strong
+
+Cleavage: Poor
+Fracture: Conchoidal
+
+Primary Sources: Russia, Sri Lanka, Brazil
+
+Treatments: Rare
+
+Cuts: Faceted
+
+Faceted Cuts:
+Oval
+Cushion
+Emerald cut
+Mixed cut
+
+Phenomena: Color change

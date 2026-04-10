@@ -1,0 +1,28 @@
+Name: Bertrandite
+Formula: Be4Si2O7(OH)2
+Crystal System: Orthorhombic
+
+Color: Colorless, pale yellow
+Hardness: 6-7
+Specific Gravity: 2.6
+
+Refractive Index: 1.59-1.61
+Birefringence: 0.010
+Optical: Anisotropic
+Refraction: Birefringent
+
+Pleochroism: None
+
+Cleavage: Good
+Fracture: Uneven
+
+Primary Sources: USA
+
+Treatments: None
+
+Cuts: Rare / Collector
+
+Faceted Cuts:
+Step cut
+
+Phenomena: None

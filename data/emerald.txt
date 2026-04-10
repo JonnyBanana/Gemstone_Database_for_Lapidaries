@@ -1,0 +1,30 @@
+Name: Emerald
+Formula: Be3Al2Si6O18
+Crystal System: Hexagonal
+
+Color: Green
+Hardness: 7.5-8
+Specific Gravity: 2.7
+
+Refractive Index: 1.57-1.59
+Birefringence: 0.006
+Optical: Anisotropic
+Refraction: Birefringent
+
+Pleochroism: Moderate
+
+Cleavage: Poor
+Fracture: Uneven
+
+Primary Sources: Colombia, Zambia
+
+Treatments: Oil common
+
+Cuts: Faceted
+
+Faceted Cuts:
+Emerald cut
+Oval
+Cushion
+
+Phenomena: None

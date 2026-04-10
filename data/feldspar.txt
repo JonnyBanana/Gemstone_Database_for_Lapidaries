@@ -1,0 +1,29 @@
+Name: Feldspar
+Formula: Group (K,Na,Ca)AlSi3O8
+Crystal System: Triclinic/Monoclinic
+
+Color: Various
+Hardness: 6-6.5
+Specific Gravity: 2.6
+
+Refractive Index: 1.52-1.57
+Birefringence: 0.010
+Optical: Anisotropic
+Refraction: Birefringent
+
+Pleochroism: Weak
+
+Cleavage: Perfect
+Fracture: Uneven
+
+Primary Sources: Worldwide
+
+Treatments: None
+
+Cuts: Cabochon / Faceted
+
+Faceted Cuts:
+Oval
+Cushion
+
+Phenomena: None

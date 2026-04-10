@@ -1,0 +1,29 @@
+Name: Cobalt Spinel
+Formula: MgAl2O4
+Crystal System: Cubic
+
+Color: Blue
+Hardness: 8
+Specific Gravity: 3.6
+
+Refractive Index: 1.72
+Birefringence: None
+Optical: Isotropic
+Refraction: Single
+
+Pleochroism: None
+
+Cleavage: None
+Fracture: Conchoidal
+
+Primary Sources: Sri Lanka, Vietnam
+
+Treatments: None
+
+Cuts: Faceted
+
+Faceted Cuts:
+Round brilliant
+Oval
+
+Phenomena: Intense color

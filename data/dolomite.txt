@@ -1,0 +1,28 @@
+Name: Dolomite
+Formula: CaMg(CO3)2
+Crystal System: Trigonal
+
+Color: White, pink
+Hardness: 3.5-4
+Specific Gravity: 2.85
+
+Refractive Index: 1.50-1.68
+Birefringence: 0.180
+Optical: Anisotropic
+Refraction: Birefringent
+
+Pleochroism: None
+
+Cleavage: Perfect
+Fracture: Conchoidal
+
+Primary Sources: Italy, USA
+
+Treatments: None
+
+Cuts: Rare / Collector
+
+Faceted Cuts:
+Step cut
+
+Phenomena: None

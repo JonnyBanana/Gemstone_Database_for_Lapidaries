@@ -1,0 +1,28 @@
+Name: Bastnasite
+Formula: (Ce,La)(CO3)F
+Crystal System: Hexagonal
+
+Color: Brown, yellow
+Hardness: 4-4.5
+Specific Gravity: 4.9-5.2
+
+Refractive Index: 1.72-1.75
+Birefringence: 0.030
+Optical: Anisotropic
+Refraction: Birefringent
+
+Pleochroism: Weak
+
+Cleavage: Poor
+Fracture: Uneven
+
+Primary Sources: China, USA
+
+Treatments: None
+
+Cuts: Rare / Collector
+
+Faceted Cuts:
+Step cut
+
+Phenomena: None

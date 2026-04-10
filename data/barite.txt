@@ -1,0 +1,28 @@
+Name: Barite
+Formula: BaSO4
+Crystal System: Orthorhombic
+
+Color: White, blue, yellow
+Hardness: 3-3.5
+Specific Gravity: 4.5
+
+Refractive Index: 1.63-1.64
+Birefringence: 0.012
+Optical: Anisotropic
+Refraction: Birefringent
+
+Pleochroism: None
+
+Cleavage: Perfect
+Fracture: Uneven
+
+Primary Sources: USA, Morocco
+
+Treatments: None
+
+Cuts: Rare / Collector
+
+Faceted Cuts:
+Step cut
+
+Phenomena: None

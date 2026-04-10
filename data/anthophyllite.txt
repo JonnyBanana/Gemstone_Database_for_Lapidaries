@@ -1,0 +1,28 @@
+Name: Anthophyllite
+Formula: (Mg,Fe)7Si8O22(OH)2
+Crystal System: Orthorhombic
+
+Color: Brown, gray
+Hardness: 5.5-6
+Specific Gravity: 3.0-3.2
+
+Refractive Index: 1.54-1.57
+Birefringence: 0.020
+Optical: Anisotropic
+Refraction: Birefringent
+
+Pleochroism: Weak
+
+Cleavage: Good
+Fracture: Uneven
+
+Primary Sources: Finland, USA
+
+Treatments: None
+
+Cuts: Rare / Collector
+
+Faceted Cuts:
+Step cut
+
+Phenomena: None

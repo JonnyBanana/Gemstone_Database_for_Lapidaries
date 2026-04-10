@@ -1,0 +1,28 @@
+Name: Astrophyllite
+Formula: Complex silicate
+Crystal System: Triclinic
+
+Color: Golden brown
+Hardness: 3-4
+Specific Gravity: 3.3-3.4
+
+Refractive Index: 1.68-1.72
+Birefringence: Moderate
+Optical: Anisotropic
+Refraction: Birefringent
+
+Pleochroism: Strong
+
+Cleavage: Perfect
+Fracture: Splintery
+
+Primary Sources: Russia, Norway
+
+Treatments: None
+
+Cuts: Cabochon
+
+Faceted Cuts:
+None
+
+Phenomena: Radiating patterns

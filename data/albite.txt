@@ -1,0 +1,29 @@
+Name: Albite
+Formula: NaAlSi3O8
+Crystal System: Triclinic
+
+Color: White
+Hardness: 6-6.5
+Specific Gravity: 2.6
+
+Refractive Index: 1.52-1.54
+Birefringence: 0.010
+Optical: Anisotropic
+Refraction: Birefringent
+
+Pleochroism: None
+
+Cleavage: Perfect
+Fracture: Uneven
+
+Primary Sources: Worldwide
+
+Treatments: None
+
+Cuts: Rare / Faceted
+
+Faceted Cuts:
+Step cut
+Emerald cut
+
+Phenomena: None

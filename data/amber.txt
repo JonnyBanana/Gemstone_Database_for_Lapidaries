@@ -1,0 +1,28 @@
+Name: Amber
+Formula: Organic resin
+Crystal System: Amorphous
+
+Color: Yellow to brown
+Hardness: 2-2.5
+Specific Gravity: 1.05
+
+Refractive Index: 1.54
+Birefringence: None
+Optical: Isotropic
+Refraction: Single (Monorefringent)
+
+Pleochroism: None
+
+Cleavage: None
+Fracture: Conchoidal
+
+Primary Sources: Baltic region, Dominican Republic
+
+Treatments: Heat, pressing
+
+Cuts: Cabochon
+
+Faceted Cuts:
+None
+
+Phenomena: None

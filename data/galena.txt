@@ -1,0 +1,28 @@
+Name: Galena
+Formula: PbS
+Crystal System: Cubic
+
+Color: Lead gray
+Hardness: 2.5-2.75
+Specific Gravity: 7.4-7.6
+
+Refractive Index: Opaque
+Birefringence: None
+Optical: Opaque
+Refraction: None
+
+Pleochroism: None
+
+Cleavage: Perfect
+Fracture: Uneven
+
+Primary Sources: USA, Peru, Australia
+
+Treatments: None
+
+Cuts: Rare / Collector
+
+Faceted Cuts:
+None
+
+Phenomena: None

@@ -1,0 +1,32 @@
+Name: Diamond
+Formula: C
+Crystal System: Cubic
+
+Color: Colorless, various fancy colors
+Hardness: 10
+Specific Gravity: 3.52
+
+Refractive Index: 2.42
+Birefringence: None
+Optical: Isotropic
+Refraction: Single (Monorefringent)
+
+Pleochroism: None
+
+Cleavage: Perfect
+Fracture: Conchoidal
+
+Primary Sources: Worldwide
+
+Treatments: Common (HPHT, irradiation)
+
+Cuts: Faceted
+
+Faceted Cuts:
+Round brilliant
+Princess cut
+Emerald cut
+Cushion
+Oval
+
+Phenomena: None

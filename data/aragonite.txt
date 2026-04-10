@@ -1,0 +1,28 @@
+Name: Aragonite
+Formula: CaCO3
+Crystal System: Orthorhombic
+
+Color: White, brown, yellow
+Hardness: 3.5-4
+Specific Gravity: 2.9-3.0
+
+Refractive Index: 1.53-1.68
+Birefringence: 0.155
+Optical: Anisotropic
+Refraction: Birefringent
+
+Pleochroism: Weak
+
+Cleavage: Good
+Fracture: Conchoidal
+
+Primary Sources: Spain, Morocco
+
+Treatments: None
+
+Cuts: Rare / Collector
+
+Faceted Cuts:
+Step cut
+
+Phenomena: None

@@ -1,0 +1,28 @@
+Name: Fuchsite
+Formula: K(Al,Cr)2(AlSi3O10)(OH)2
+Crystal System: Monoclinic
+
+Color: Green
+Hardness: 2-3
+Specific Gravity: 2.8
+
+Refractive Index: 1.55-1.59
+Birefringence: 0.020
+Optical: Anisotropic
+Refraction: Birefringent
+
+Pleochroism: Weak
+
+Cleavage: Perfect
+Fracture: Uneven
+
+Primary Sources: Brazil, India
+
+Treatments: None
+
+Cuts: Cabochon
+
+Faceted Cuts:
+None
+
+Phenomena: None

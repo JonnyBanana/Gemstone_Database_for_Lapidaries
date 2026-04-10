@@ -1,0 +1,28 @@
+Name: Calcite
+Formula: CaCO3
+Crystal System: Trigonal
+
+Color: Various
+Hardness: 3
+Specific Gravity: 2.7
+
+Refractive Index: 1.49-1.66
+Birefringence: 0.172
+Optical: Anisotropic
+Refraction: Birefringent
+
+Pleochroism: None
+
+Cleavage: Perfect
+Fracture: Conchoidal
+
+Primary Sources: Worldwide
+
+Treatments: None
+
+Cuts: Rare / Collector
+
+Faceted Cuts:
+Step cut
+
+Phenomena: Double refraction

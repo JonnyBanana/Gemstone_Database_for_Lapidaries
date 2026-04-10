@@ -1,0 +1,30 @@
+Name: Elbaite
+Formula: Complex borosilicate
+Crystal System: Trigonal
+
+Color: Multicolor
+Hardness: 7-7.5
+Specific Gravity: 3.0
+
+Refractive Index: 1.62-1.64
+Birefringence: 0.020
+Optical: Anisotropic
+Refraction: Birefringent
+
+Pleochroism: Strong
+
+Cleavage: Poor
+Fracture: Uneven
+
+Primary Sources: Brazil, Afghanistan
+
+Treatments: Heat common
+
+Cuts: Faceted
+
+Faceted Cuts:
+Emerald cut
+Oval
+Cushion
+
+Phenomena: Color zoning

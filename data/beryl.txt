@@ -1,0 +1,30 @@
+Name: Beryl
+Formula: Be3Al2Si6O18
+Crystal System: Hexagonal
+
+Color: Various (green, blue, yellow, pink)
+Hardness: 7.5-8
+Specific Gravity: 2.7
+
+Refractive Index: 1.57-1.60
+Birefringence: 0.005
+Optical: Anisotropic
+Refraction: Birefringent
+
+Pleochroism: Weak to moderate
+
+Cleavage: Poor
+Fracture: Uneven
+
+Primary Sources: Brazil, Madagascar
+
+Treatments: Heat common
+
+Cuts: Faceted
+
+Faceted Cuts:
+Emerald cut
+Oval
+Cushion
+
+Phenomena: None

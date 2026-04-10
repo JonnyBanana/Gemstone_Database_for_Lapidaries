@@ -1,0 +1,28 @@
+Name: Afghanite
+Formula: Complex silicate
+Crystal System: Hexagonal
+
+Color: Blue
+Hardness: 5.5-6
+Specific Gravity: 2.5
+
+Refractive Index: 1.52-1.53
+Birefringence: Low
+Optical: Anisotropic
+Refraction: Birefringent
+
+Pleochroism: Weak
+
+Cleavage: Poor
+Fracture: Uneven
+
+Primary Sources: Afghanistan, Italy
+
+Treatments: None
+
+Cuts: Cabochon
+
+Faceted Cuts:
+None
+
+Phenomena: None

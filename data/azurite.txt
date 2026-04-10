@@ -1,0 +1,28 @@
+Name: Azurite
+Formula: Cu3(CO3)2(OH)2
+Crystal System: Monoclinic
+
+Color: Deep blue
+Hardness: 3.5-4
+Specific Gravity: 3.7-3.9
+
+Refractive Index: 1.73-1.84
+Birefringence: 0.050
+Optical: Anisotropic
+Refraction: Birefringent
+
+Pleochroism: Weak
+
+Cleavage: Good
+Fracture: Uneven
+
+Primary Sources: Morocco, Namibia
+
+Treatments: None
+
+Cuts: Cabochon
+
+Faceted Cuts:
+None
+
+Phenomena: None

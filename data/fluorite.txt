@@ -1,0 +1,29 @@
+Name: Fluorite
+Formula: CaF2
+Crystal System: Cubic
+
+Color: Various
+Hardness: 4
+Specific Gravity: 3.2
+
+Refractive Index: 1.43
+Birefringence: None
+Optical: Isotropic
+Refraction: Single (Monorefringent)
+
+Pleochroism: None
+
+Cleavage: Perfect
+Fracture: Conchoidal
+
+Primary Sources: China, Mexico
+
+Treatments: None
+
+Cuts: Faceted / Cabochon
+
+Faceted Cuts:
+Octagon
+Step cut
+
+Phenomena: Fluorescence

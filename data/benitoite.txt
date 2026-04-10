@@ -1,0 +1,30 @@
+Name: Benitoite
+Formula: BaTiSi3O9
+Crystal System: Hexagonal
+
+Color: Blue
+Hardness: 6-6.5
+Specific Gravity: 3.6
+
+Refractive Index: 1.75-1.80
+Birefringence: 0.040
+Optical: Anisotropic
+Refraction: Birefringent
+
+Pleochroism: Strong
+
+Cleavage: Poor
+Fracture: Conchoidal
+
+Primary Sources: USA (California)
+
+Treatments: None
+
+Cuts: Faceted
+
+Faceted Cuts:
+Round brilliant
+Oval
+Trillion
+
+Phenomena: None

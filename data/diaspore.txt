@@ -1,0 +1,29 @@
+Name: Diaspore
+Formula: AlO(OH)
+Crystal System: Orthorhombic
+
+Color: Colorless, green
+Hardness: 6.5-7
+Specific Gravity: 3.3
+
+Refractive Index: 1.70-1.75
+Birefringence: 0.060
+Optical: Anisotropic
+Refraction: Birefringent
+
+Pleochroism: Strong
+
+Cleavage: Perfect
+Fracture: Uneven
+
+Primary Sources: Turkey
+
+Treatments: None
+
+Cuts: Faceted
+
+Faceted Cuts:
+Oval
+Cushion
+
+Phenomena: Color change (rare)

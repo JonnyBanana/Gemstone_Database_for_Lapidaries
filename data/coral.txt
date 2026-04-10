@@ -1,0 +1,28 @@
+Name: Coral
+Formula: CaCO3 (organic)
+Crystal System: Amorphous
+
+Color: Red, pink
+Hardness: 3-4
+Specific Gravity: 2.6
+
+Refractive Index: 1.48-1.66
+Birefringence: None
+Optical: Variable
+Refraction: Variable
+
+Pleochroism: None
+
+Cleavage: None
+Fracture: Uneven
+
+Primary Sources: Mediterranean, Japan
+
+Treatments: Dye common
+
+Cuts: Cabochon
+
+Faceted Cuts:
+None
+
+Phenomena: None

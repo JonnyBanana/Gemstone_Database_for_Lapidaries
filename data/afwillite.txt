@@ -1,0 +1,28 @@
+Name: Afwillite
+Formula: Ca3(SiO3OH)2·2H2O
+Crystal System: Monoclinic
+
+Color: Colorless, white
+Hardness: 3-4
+Specific Gravity: 2.6
+
+Refractive Index: 1.61-1.63
+Birefringence: Moderate
+Optical: Anisotropic
+Refraction: Birefringent
+
+Pleochroism: None
+
+Cleavage: Good
+Fracture: Uneven
+
+Primary Sources: South Africa
+
+Treatments: None
+
+Cuts: Specimen
+
+Faceted Cuts:
+None
+
+Phenomena: None

@@ -1,0 +1,28 @@
+Name: Dickite
+Formula: Al2Si2O5(OH)4
+Crystal System: Monoclinic
+
+Color: White
+Hardness: 1.5-2
+Specific Gravity: 2.6
+
+Refractive Index: 1.56-1.57
+Birefringence: 0.010
+Optical: Anisotropic
+Refraction: Birefringent
+
+Pleochroism: None
+
+Cleavage: Perfect
+Fracture: Earthy
+
+Primary Sources: USA, UK
+
+Treatments: None
+
+Cuts: None
+
+Faceted Cuts:
+None
+
+Phenomena: None

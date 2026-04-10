@@ -1,0 +1,29 @@
+Name: Diopside
+Formula: CaMgSi2O6
+Crystal System: Monoclinic
+
+Color: Green, black
+Hardness: 5.5-6
+Specific Gravity: 3.2
+
+Refractive Index: 1.67-1.70
+Birefringence: 0.030
+Optical: Anisotropic
+Refraction: Birefringent
+
+Pleochroism: Weak
+
+Cleavage: Good
+Fracture: Uneven
+
+Primary Sources: Russia, Pakistan
+
+Treatments: None
+
+Cuts: Faceted / Cabochon
+
+Faceted Cuts:
+Oval
+Cushion
+
+Phenomena: Chatoyancy (rare)

@@ -1,0 +1,30 @@
+Name: Ametrine
+Formula: SiO2
+Crystal System: Trigonal
+
+Color: Purple-yellow
+Hardness: 7
+Specific Gravity: 2.65
+
+Refractive Index: 1.54-1.55
+Birefringence: 0.009
+Optical: Anisotropic
+Refraction: Birefringent
+
+Pleochroism: Weak
+
+Cleavage: None
+Fracture: Conchoidal
+
+Primary Sources: Bolivia
+
+Treatments: Heat
+
+Cuts: Faceted
+
+Faceted Cuts:
+Emerald cut
+Oval
+Cushion
+
+Phenomena: Color zoning

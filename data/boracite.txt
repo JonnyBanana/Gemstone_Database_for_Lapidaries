@@ -1,0 +1,28 @@
+Name: Boracite
+Formula: Mg3B7O13Cl
+Crystal System: Orthorhombic
+
+Color: Colorless, yellow
+Hardness: 7-7.5
+Specific Gravity: 2.9
+
+Refractive Index: 1.66-1.67
+Birefringence: 0.005
+Optical: Anisotropic
+Refraction: Birefringent
+
+Pleochroism: Weak
+
+Cleavage: Poor
+Fracture: Conchoidal
+
+Primary Sources: Germany
+
+Treatments: None
+
+Cuts: Rare / Collector
+
+Faceted Cuts:
+Step cut
+
+Phenomena: None

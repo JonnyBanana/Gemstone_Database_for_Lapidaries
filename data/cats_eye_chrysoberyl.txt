@@ -1,0 +1,28 @@
+Name: Cat's Eye Chrysoberyl
+Formula: BeAl2O4
+Crystal System: Orthorhombic
+
+Color: Yellow-green
+Hardness: 8.5
+Specific Gravity: 3.7
+
+Refractive Index: 1.74-1.75
+Birefringence: 0.008
+Optical: Anisotropic
+Refraction: Birefringent
+
+Pleochroism: Weak
+
+Cleavage: Poor
+Fracture: Conchoidal
+
+Primary Sources: Sri Lanka, Brazil
+
+Treatments: None
+
+Cuts: Cabochon
+
+Faceted Cuts:
+None
+
+Phenomena: Chatoyancy

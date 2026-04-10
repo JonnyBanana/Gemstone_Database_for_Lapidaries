@@ -1,0 +1,29 @@
+Name: Cuprite
+Formula: Cu2O
+Crystal System: Cubic
+
+Color: Red
+Hardness: 3.5-4
+Specific Gravity: 6.1
+
+Refractive Index: 2.85
+Birefringence: None
+Optical: Isotropic
+Refraction: Single (Monorefringent)
+
+Pleochroism: None
+
+Cleavage: Poor
+Fracture: Conchoidal
+
+Primary Sources: Namibia, Congo
+
+Treatments: None
+
+Cuts: Faceted
+
+Faceted Cuts:
+Brilliant cut
+Oval
+
+Phenomena: None

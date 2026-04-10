@@ -1,0 +1,30 @@
+Name: Garnet
+Formula: X3Y2(SiO4)3
+Crystal System: Cubic
+
+Color: Various
+Hardness: 6.5-7.5
+Specific Gravity: 3.5-4.3
+
+Refractive Index: 1.72-1.94
+Birefringence: None
+Optical: Isotropic
+Refraction: Single (Monorefringent)
+
+Pleochroism: None
+
+Cleavage: None
+Fracture: Conchoidal
+
+Primary Sources: Worldwide
+
+Treatments: Rare
+
+Cuts: Faceted / Cabochon
+
+Faceted Cuts:
+Round brilliant
+Oval
+Cushion
+
+Phenomena: None
