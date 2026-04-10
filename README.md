@@ -1,7 +1,7 @@
 <h1>Gemstone Database for Lapidaries</h1>
 
-A lightweight, high-performance, and offline-first CLI tool designed specifically for lapidaries, gem cutters, </BR>
-and mineral enthusiasts worldwide.
+A lightweight, high-performance, and offline-first CLI tool designed specifically for lapidaries,  </BR>
+gem cutters, and mineral enthusiasts worldwide.
 
 </BR>
 
