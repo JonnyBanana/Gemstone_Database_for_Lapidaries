@@ -2,7 +2,13 @@
 
 A lightweight, high-performance, and offline-first CLI tool designed specifically for lapidaries, gem cutters, and mineral enthusiasts worldwide.
 
-</BR>
+<BR>
+
+<p>
+  <img src="[https://raw.githubusercontent.com/JonnyBanana/Il_Pendolo_di_Foucault_Permutaion_Error/main/IMG/il_pendolo_di_foucault.jpg](https://raw.githubusercontent.com/JonnyBanana/Gemstone_Database_for_Lapidaries/refs/heads/main/img/main_menu.png)" width="350">
+</p>
+
+<BR>
 
 <h2>💎 Project Philosophy</h2>
 
@@ -32,6 +38,14 @@ Market Prices, and Technical Education.
 
 -Technical Specifics: Each entry follows a rigorous template including chemical formulas, </BR>
 hardness, refractive index, and cutting suggestions.
+
+<BR>
+
+<p>
+  <img src="[https://raw.githubusercontent.com/JonnyBanana/Il_Pendolo_di_Foucault_Permutaion_Error/main/IMG/il_pendolo_di_foucault.jpg](https://raw.githubusercontent.com/JonnyBanana/Gemstone_Database_for_Lapidaries/refs/heads/main/img/main_menu.png)" width="350">
+</p>
+
+<BR>
 
 <h2>📥 Downloads</h2>
 
