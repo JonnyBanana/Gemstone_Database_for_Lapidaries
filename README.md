@@ -51,7 +51,7 @@ hardness, refractive index, and cutting suggestions.
 
 You can download the version 1.0 here:
 
-(Insert your URL here)
+https://
 
  Note: The .exe version is a standalone file with the database already embedded.
 
