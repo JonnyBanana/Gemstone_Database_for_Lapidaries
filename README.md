@@ -20,35 +20,39 @@ Internet is only required if you choose to use the optional Web Resources.
 
 -Ultra-Lightweight: It takes up virtually no disk space and can run on even the oldest machines.
 
-<h2>🚀 Features</h2>h2>
+<h2>🚀 Features</h2>
 
--Smart Search: Features an "Auto-Open" function. If your search (e.g., "Tan") matches only one mineral (e.g., Tanzanite), it opens the data sheet immediately.
+-Smart Search: Features an "Auto-Open" function. If your search (e.g., "Tan") </BR>
+matches only one mineral (e.g., Tanzanite), it opens the data sheet immediately.
 
 -Mineral Database: Currently includes 250 minerals, with plans for continuous expansion.
 
--Integrated Web Dashboard: A categorized hub for Prospection (maps), Faceting (designs), Market Prices, and Technical Education.
+-Integrated Web Dashboard: A categorized hub for Prospection (maps), Faceting (designs), </BR>
+Market Prices, and Technical Education.
 
--Technical Specifics: Each entry follows a rigorous template including chemical formulas, hardness, refractive index, and cutting suggestions.
+-Technical Specifics: Each entry follows a rigorous template including chemical formulas, </BR>
+hardness, refractive index, and cutting suggestions.
 
 <h2>📥 Downloads</h2>
 
 You can download the version 1.0 here:
 
-     (Insert your URL here)
+(Insert your URL here)
 
-        Note: The .exe version is a standalone file with the database already embedded.
+ Note: The .exe version is a standalone file with the database already embedded.
 
 <h2>📂 Mineral Data Sheets</h2>
 
-Each mineral in the database provides detailed technical specifications essential for identifying and working with the stone:
+Each mineral in the database provides detailed technical specifications</BR> 
+essential for identifying and working with the stone:
 
-    Chemical & Physical: Name, Formula, Crystal System, Hardness, and Specific Gravity.
+-Chemical & Physical: Name, Formula, Crystal System, Hardness, and Specific Gravity.
 
-    Optical Properties: Refractive Index, Birefringence, Optical, and Refraction type.
+-Optical Properties: Refractive Index, Birefringence, Optical, and Refraction type.
 
-    Workability: Cleavage, Fracture, and suggested Cuts (Cabochon vs. Faceted).
+-Workability: Cleavage, Fracture, and suggested Cuts (Cabochon vs. Faceted).
 
-    Geology: Primary Sources and known Phenomena or Treatments.
+-Geology: Primary Sources and known Phenomena or Treatments.
 
 <h2>🗺️ Roadmap</h2>
 
