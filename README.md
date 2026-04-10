@@ -8,7 +8,7 @@ A lightweight, high-performance, and offline-first CLI tool designed specificall
 
 This program is free for everyone. It was created with a specific focus on the global lapidary community. Many talented cutters operate in Asian countries or developing regions where high-end hardware, stable internet, and modern software environments aren't always available.
 
-To ensure maximum accessibility, this tool is:
+<b>To ensure maximum accessibility, this tool is:</b>
 
 -Written in DOS/Batch: Requires zero installation. No Python, no Java, no complex environments. If you have a PC, it runs.
 
@@ -16,17 +16,17 @@ To ensure maximum accessibility, this tool is:
 
 -Ultra-Lightweight: It takes up virtually no disk space and can run on even the oldest machines.
 
-🚀 Features
+<b>🚀 Features</b>
 
-    Smart Search: Features an "Auto-Open" function. If your search (e.g., "Tan") matches only one mineral (e.g., Tanzanite), it opens the data sheet immediately.
+-Smart Search: Features an "Auto-Open" function. If your search (e.g., "Tan") matches only one mineral (e.g., Tanzanite), it opens the data sheet immediately.
 
-    Mineral Database: Currently includes 250 minerals, with plans for continuous expansion.
+-Mineral Database: Currently includes 250 minerals, with plans for continuous expansion.
 
-    Integrated Web Dashboard: A categorized hub for Prospection (maps), Faceting (designs), Market Prices, and Technical Education.
+-Integrated Web Dashboard: A categorized hub for Prospection (maps), Faceting (designs), Market Prices, and Technical Education.
 
-    Technical Specifics: Each entry follows a rigorous template including chemical formulas, hardness, refractive index, and cutting suggestions.
+-Technical Specifics: Each entry follows a rigorous template including chemical formulas, hardness, refractive index, and cutting suggestions.
 
-📥 Downloads
+<b>📥 Downloads</b>
 
 You can download the version 1.0 here:
 
@@ -34,7 +34,7 @@ You can download the version 1.0 here:
 
         Note: The .exe version is a standalone file with the database already embedded.
 
-📂 Mineral Data Sheets
+<b>📂 Mineral Data Sheets</b>
 
 Each mineral in the database provides detailed technical specifications essential for identifying and working with the stone:
 
